@@ -50,20 +50,96 @@ textarea {
    DRD's custom styles
    ========================================================================== */
 
+/* Page structure */
+html, body {
+  height: 100%;
+}
+body {
+  background-color: #777;
+  font-family: Georgia, serif;
+}
+#page {
+  margin: 0 auto;
+  width: 40.5em;
+  min-height: 100%;
+  background-color: #fff;
+}
+#textblock {
+  margin: 0 9em 0 4.5em;
+}
+header {
+  padding: 4.5em 9em 0 4.5em;
+  position: relative;
+}
+header h1 {
+  padding: 0;
+  float: left;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+header nav {
+  position: absolute;
+  top: 4.5em;
+  right: 1em;
+  width: 7em;
+  font-family: Verdana, sans-serif;
+}
+header nav ul {
+  margin: 0;
+  padding: 0;
+}
+footer {
+  border: 1px solid #ccc;
+  margin-top: 9em;
+}
+
+/* Display text */
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+h1 {
+  font-size: 1.5em;
+  padding: 1.45833em 0;
+}
+h2 {
+  font-size: 1.33333em;
+  padding: 1.25em 0;
+}
+h3 {
+  font-size: 1.16667em;
+  padding: 1.51786em 0;
+}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+/* Body text */
+p {
+  margin: 0;
+  text-indent: 1.25em;
+}
+div + p,
+h1 + p,
+h2 + p,
+h3 + p,
+hr + p,
+p.first,
+pre + p,
+p:first-child,
+ul + p,
+ol + p {
+  text-indent: 0;
+}
+a {
+  color: #900;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
 
 /* ==========================================================================
