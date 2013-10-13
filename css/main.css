@@ -157,6 +157,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+aside {
+  width: 112px;
+  width: 7rem;
+  float: right;
+  margin-right: -128px;
+  margin-right: -8rem;
+}
 aside,
 #site-head nav ul,
 article header p,
@@ -164,8 +171,6 @@ footer p {
   font-family: Verdana, sans-serif;
   font-size: 0.75em; /* = 12/16 */
 }
-
-
 
 /* ==========================================================================
    Helper classes
