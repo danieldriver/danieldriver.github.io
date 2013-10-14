@@ -73,12 +73,14 @@ body {
   top: 4.2em;
   right: 1em;
   width: 7em;
-  text-transform: uppercase;
-  letter-spacing: 1px;
 }
 #site-head nav ul {
   margin: 0;
   padding: 0;
+  font-family: Verdana, sans-serif;
+  font-size: 0.8125em; /* = 13/16 */
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 #textblock {
   margin: 0 9em 0 4.5em;
@@ -169,17 +171,13 @@ aside {
 }
 aside,
 .footnotes ol,
-#site-head nav ul,
 article header p,
 footer p {
   font-family: Verdana, sans-serif;
-  font-size: 0.75em; /* = 12/16 */
+  font-size: 0.6875em; /* = 11/16 */
 }
 
 /* Footnotes (as margin notes) */
-sub, sup {
-  font-size: 0.75em; /* = 12/16 */
-}
 .footnotes {
   width: 7em;
   position: absolute;
