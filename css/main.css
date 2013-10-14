@@ -73,6 +73,7 @@ body {
   top: 4.2em;
   right: 1em;
   width: 7em;
+  z-index: 1;
 }
 #site-head nav ul {
   margin: 0;
