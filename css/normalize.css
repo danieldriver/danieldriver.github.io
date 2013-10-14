@@ -262,16 +262,20 @@ small {
 
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ * BUT: modified so that my sidenote script works as it should. -DRD
  */
 
 sub,
 sup {
     font-size: 75%;
     line-height: 0;
+    /*
     position: relative;
     vertical-align: baseline;
+    */
 }
 
+/*
 sup {
     top: -0.5em;
 }
@@ -279,6 +283,7 @@ sup {
 sub {
     bottom: -0.25em;
 }
+*/
 
 /* ==========================================================================
    Lists
