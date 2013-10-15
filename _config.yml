@@ -1,0 +1,14 @@
+name: Daniel R. Driver
+shortname: 'D.&thinsp;R. Driver'
+title: Biblical Studies &amp; Theology
+timezone: America/Toronto
+
+permalink: ordinal
+paginate_path: 'page:num'
+
+pandoc:
+  skip: false
+  flags: '--smart'
+  outputs:
+    markdown:
+pygments: true
