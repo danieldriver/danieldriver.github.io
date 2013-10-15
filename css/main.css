@@ -55,14 +55,14 @@ html, body {
   height: 100%;
 }
 body {
-  background-color: #777;
+  background-color: #BD8D46;
   font-family: Georgia, serif;
 }
 #page {
   margin: 0 auto;
   width: 40.5em;
   min-height: 100%;
-  background-color: #fff;
+  background-color: #FCFAE1;
 }
 #site-head {
   padding: 4.2em 9em 0 4.5em;
@@ -71,8 +71,8 @@ body {
 #site-head nav {
   position: absolute;
   top: 4.2em;
-  right: 1em;
-  width: 7em;
+  right: 1.5em;
+  width: 6.75em;
   z-index: 1;
 }
 #site-head nav ul {
@@ -132,7 +132,7 @@ article header h1 + p {
   margin-top: -2rem;
   padding-bottom: 32px;
   padding-bottom: 2rem;
-  color: #777;
+  color: #BD8D46;
 }
 
 /* Body text */
@@ -154,11 +154,11 @@ ol + p {
   text-indent: 0;
 }
 a {
-  color: #900;
+  color: #B9121B;
   text-decoration: none;
 }
 a:hover {
-  text-decoration: underline;
+  color: #4C1B1B;
 }
 article {
   position: relative;
@@ -175,9 +175,9 @@ footer p {
 
 /* Footnotes (as margin notes) */
 .footnotes {
-  width: 7em;
+  width: 6.75em;
   position: absolute;
-  right: -8em;
+  right: -7.5em;
   bottom: 0;
 }
 .footnotes hr {
