@@ -65,7 +65,7 @@ body {
   background-color: #fcfae1;
 }
 #site-head {
-  padding: 4.2em 9em 0 4.5em;
+  padding: 4.1em 9em 0 4.5em;
   position: relative;
 }
 #site-head nav {
@@ -79,9 +79,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Verdana, sans-serif;
-  font-size: 0.8125em; /* = 13/16 */
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-size: 0.875em; /* = 14/16 */
 }
 section {
   margin: 0 9em 0 4.5em;
@@ -122,10 +120,11 @@ h3 {
   padding: 0;
   font-size: 1em;
 }
-#site-head h1 span {
+#site-head h1 a {
   text-transform: uppercase;
   letter-spacing: 1px;
   display: block;
+  font-size: 1.25em;
 }
 article header h1 + p {
   margin-top: -32px;
@@ -158,6 +157,8 @@ a {
   text-decoration: none;
 }
 a:hover,
+#site-head h1,
+#site-head h1 a,
 header p a,
 footer a {
   color: #4c1b1b;
@@ -176,7 +177,7 @@ article > p:last-of-type:after {
 article header p,
 footer p {
   font-family: Verdana, sans-serif;
-  font-size: 0.6875em; /* = 11/16 */
+  font-size: 0.625em; /* = 10/16 */
 }
 
 /* Footnotes (as margin notes) */
