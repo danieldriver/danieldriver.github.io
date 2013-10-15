@@ -1,16 +1,10 @@
 ---
-layout: default
-title: Notebook
+layout: page
+title: Archive of Occasional Notes
+tagline: "You can call it a &ldquo;weblog,&rdquo; but I think of it as an online notebook."
 ---
-
-        <article>
-          <header>
-            <h1>Archive of Occasional Notes</h1>
-            <p>You can call it a &ldquo;weblog,&rdquo; but I think of it as an online notebook.</p>
-          </header>
-		  <ul class="posts">
-			{% for post in site.posts %}
-			  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-		  </ul>
-        </article>
+          <ul class="posts">
+          {% for post in site.posts %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+          </ul>
