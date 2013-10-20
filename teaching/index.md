@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching at Tyndale
-tagline: 'Since 2008 I have taught Old Testament at <a href="https://www.tyndale.ca/faculty/daniel-driver">Tyndale UC</a>, in Toronto.'
+tagline: 'Resources for students of Old Testament at <a href="https://www.tyndale.ca/faculty/daniel-driver">Tyndale UC</a>, in Toronto.'
 ---
 
 ## Active Courses (Fall 2013)
