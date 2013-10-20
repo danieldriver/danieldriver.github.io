@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Proverbs 8 and Christian Theological Reading of the Scriptures (WCST Colloquium)'
+date: 2013-05-17
+category: wcst
+---
+
+Proverbs 8 proved to be key text in the debate between Athanasius and the Arians in the 4th century, particularly in terms of its Christological and Trinitarian implications. In our own era, the text has played less obvious a role in such theological discussions. Should it? If so, how? Presenters will provide varying perspectives on this topic, addressing matters of exegesis, the relation of Old and New Testaments, the hermeneutics of the lectionary, and pedagogy.
+
+Presentations by:
+
+* **Donald Collett** (Assistant Professor of Old Testament, Trinity School for Ministry, Ambridge, PA)
+* **Michael Kolarcik** (Associate Professor of Old Testament, Regis College, Toronto)
+* **Ephraim Radner** (Professor of Historical Theology, Wycliffe College, Toronto)
+* **Christopher Seitz** (Senior Research Professor of Biblical Interpretation, Wycliffe College, Toronto)
+
+[Download the event flyer.](/img/wcst/WCST-2013-Spring.pdf)
