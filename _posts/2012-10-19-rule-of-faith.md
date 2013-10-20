@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scripture and the “Rule of Faith” (WCST Colloquium)'
+title: 'WCST&mdash;Scripture and the “Rule of Faith”'
 date: 2012-10-19
 category: wcst
 ---

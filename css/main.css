@@ -160,6 +160,7 @@ a:hover,
 #site-head h1,
 #site-head h1 a,
 header p a,
+ul.contents a:hover span,
 footer a {
   color: #4c1b1b;
 }
@@ -172,6 +173,9 @@ article {
 }
 article > p:last-of-type:after {
   content: "\0020\25ca";
+}
+footer {
+  color: #bd8d46;
 }
 .footnotes ol,
 article header p,
@@ -203,6 +207,29 @@ footer p {
   }
 .footnotes li p + p {
   text-indent: 1em;
+}
+
+/* Contents */
+ul.contents {
+  list-style: none;
+  padding: 0;
+}
+ul.contents li a {
+  display: block;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #f6e497;
+  overflow: hidden;
+}
+ul.contents li:last-child a {
+  border: none;
+}
+ul.contents a:hover {
+  background: #f6e497;
+}
+ul.contents li span {
+  float: right;
+  margin: 0 0 0 1em;
+  color: #bd8d46;
 }
 
 /* ==========================================================================

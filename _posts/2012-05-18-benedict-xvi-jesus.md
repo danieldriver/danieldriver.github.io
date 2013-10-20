@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Engaging and Evaluating Benedict XVI’s Jesus of Nazareth (WCST Colloquium)'
+title: 'WCST&mdash;Engaging and Evaluating Benedict XVI’s *Jesus of Nazareth*'
 date: 2012-05-18
 category: wcst
 ---

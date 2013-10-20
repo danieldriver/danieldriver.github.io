@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brazos Bible Commentary Series: An Analysis and Critique (WCST Colloquium)'
+title: 'WCST&mdash;Brazos Bible Commentary Series: An Analysis and Critique'
 date: 2011-05-13
 category: wcst
 ---

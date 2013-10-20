@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exegetical Method and Interpretation after the “New Perspectives” (WCST Colloquium)'
+title: 'WCST&mdash;Exegetical Method and Interpretation after the “New Perspectives”'
 date: 2013-10-18
 category: wcst
 ---
