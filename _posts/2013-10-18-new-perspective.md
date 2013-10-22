@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WCST&mdash;Exegetical Method and Interpretation after the “New Perspectives”'
+title: 'WCST &ndash; Exegetical Method and Interpretation after the “New Perspectives”'
 date: 2013-10-18
 category: wcst
 ---

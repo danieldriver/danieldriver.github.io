@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WCST&mdash;Scripture and the “Rule of Faith”'
+title: 'WCST &ndash; Scripture and the “Rule of Faith”'
 date: 2012-10-19
 category: wcst
 ---
