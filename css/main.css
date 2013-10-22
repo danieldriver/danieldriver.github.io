@@ -88,12 +88,6 @@ footer {
   margin: 9em 9em 0 4.5em;
   padding-bottom: 2em;
 }
-.pull-right {
-  float: right;
-}
-.pull-left {
-  float: left;
-}
 
 /* Display text */
 h1,
@@ -236,6 +230,12 @@ ul.contents li span {
    Helper classes
    ========================================================================== */
 
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
 .ir {
   background-color: transparent;
   border: 0;
