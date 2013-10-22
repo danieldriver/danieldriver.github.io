@@ -7,10 +7,11 @@
 
 # THANKS
 
-    Matthew Carter: http://georgiaverdana.com
-    Ethan Schoonover: http://ethanschoonover.com/solarized
-    Iain Lamb: http://lamb.cc/typograph
-    Nathan Clark: http://www.nathancolgate.com
+    Matthew Carter:    http://georgiaverdana.com
+    Ethan Schoonover:  http://ethanschoonover.com/solarized
+    Iain Lamb:         http://lamb.cc/typograph/
+    Nathan Clark:      http://www.nathancolgate.com
+    Jorge Israel Peña: http://blaenkdenum.com/posts/commit-tag-for-jekyll/
 
 # TECHNOLOGY COLOPHON
 
