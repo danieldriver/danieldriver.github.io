@@ -9,18 +9,18 @@ button,
 input,
 select,
 textarea {
-  color: #222;
+  color: #002b36;
 }
 html {
   font-size: 1em;
   line-height: 1.4;
 }
 ::-moz-selection {
-  background: #f6e497;
+  background: #b3d4fc;
   text-shadow: none;
 }
 ::selection {
-  background: #f6e497;
+  background: #b3d4fc;
   text-shadow: none;
 }
 hr {
@@ -55,14 +55,14 @@ html, body {
   height: 100%;
 }
 body {
-  background-color: #bd8d46;
+  background-color: #002b36;
   font-family: Georgia, serif;
 }
 #page {
   margin: 0 auto;
   width: 40.5em;
   min-height: 100%;
-  background-color: #fcfae1;
+  background-color: #fdf6e3;
 }
 #site-head {
   padding: 4.1em 9em 0 4.5em;
@@ -131,7 +131,7 @@ article header h1 + p {
   margin-top: -2rem;
   padding-bottom: 32px;
   padding-bottom: 2rem;
-  color: #bd8d46;
+  color: #657b83;
 }
 
 /* Body text */
@@ -153,16 +153,16 @@ ol + p {
   text-indent: 0;
 }
 a {
-  color: #b9121b;
+  color: #cb4b16;
   text-decoration: none;
 }
 a:hover,
 #site-head h1,
 #site-head h1 a,
 header p a,
-ul.contents a:hover span,
-footer a {
-  color: #4c1b1b;
+footer a,
+ul.contents a:hover span {
+  color: #073642;
 }
 header p a:hover,
 footer a:hover {
@@ -175,7 +175,7 @@ article > p:last-of-type:after {
   content: "\0020\25ca";
 }
 footer {
-  color: #bd8d46;
+  color: #657b83;
 }
 .footnotes ol,
 article header p,
@@ -217,19 +217,19 @@ ul.contents {
 ul.contents li a {
   display: block;
   padding: 0.5em 0;
-  border-bottom: 1px solid #f6e497;
+  border-bottom: 1px solid #eee8d5;
   overflow: hidden;
 }
 ul.contents li:last-child a {
   border: none;
 }
 ul.contents a:hover {
-  background: #f6e497;
+  background: #eee8d5;
 }
 ul.contents li span {
   float: right;
   margin: 0 0 0 1em;
-  color: #bd8d46;
+  color: #657b83;
 }
 
 /* ==========================================================================
