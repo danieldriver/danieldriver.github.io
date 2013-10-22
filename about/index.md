@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Page
-tagline: 'Born in Portland, OR in 1979, D.&thinsp;R. Driver is Assistant Professor of Old Testament.'
+tagline: 'D.&thinsp;R. Driver is Assistant Professor of Old Testament.'
 ---
 
-## Bio
+Born in Portland, Oregon in 1979, Driver earned a BA in English
+Literature from Wheaton College, IL (2002), and a PhD in Divinity from
+St Mary’s College, University of St Andrews (2009). He currently teaches
+religious studies and Old Testament in Toronto.
 
-* tk
-
-## Vita
-
-* tk
+*Note: This site is migrating to a new host. Information will be added
+periodically in the rest of 2013.*
