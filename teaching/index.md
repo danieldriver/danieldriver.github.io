@@ -20,10 +20,10 @@ tagline: 'Resources for students of Old Testament at <a href="https://www.tyndal
 ## Past Courses Taught (2008--)
 
 * RLGS 101: Old Testament Scripture
-* RLGS 311: Text \& Interpretation: The Ten Commandments
-* RLGS 314: Text \& Interpretation: Jonah/Micah/Nahum in the Book of the XII
-* RLGS 321: Text \& Interpretation: Genesis
-* RLGS 326: Text \& Interpretation: Psalms
+* RLGS 311: Text & Interpretation: The Ten Commandments
+* RLGS 314: Text & Interpretation: Jonah/Micah/Nahum in the Book of the XII
+* RLGS 321: Text & Interpretation: Genesis
+* RLGS 326: Text & Interpretation: Psalms
 * RLGS 445: Biblical Theological Themes: The Fate of the Dead
 * RLGS 446: Biblical Theological Themes: Canon and the Rule of Faith
 * RLGS 448: Biblical Theological Themes: The Old Testament at Christian Scripture
