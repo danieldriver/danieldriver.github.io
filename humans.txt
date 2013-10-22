@@ -3,13 +3,21 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel Driver -- author and maintainer -- @danieldriver
 
 # THANKS
 
-    <name>
+    Matthew Carter: http://georgiaverdana.com
+    Ethan Schoonover: http://ethanschoonover.com/solarized
+    Iain Lamb: http://lamb.cc/typograph
+    Nathan Clark: http://www.nathancolgate.com
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    Normalize.css, jQuery, HTML5 Boilerplate
+    Git, GitHub, Jekyll
+    Markdown, kramdown
+    LaTeX, XeLaTeX
+
+    Source: https://github.com/danieldriver/danieldriver.github.io
