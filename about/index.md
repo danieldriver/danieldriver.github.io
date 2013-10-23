@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Page
-tagline: 'D.&thinsp;R. Driver is Assistant Professor of Old Testament.'
+tagline: 'All colours on this web page are 100% web safe.'
 ---
 
 Born in Portland, Oregon in 1979, Driver earned a BA in English
