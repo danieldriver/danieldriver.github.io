@@ -9,7 +9,7 @@ button,
 input,
 select,
 textarea {
-  color: #002b36;
+  color: #000;
 }
 html {
   font-size: 1em;
@@ -27,7 +27,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #93a1a1;
+  border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0;
 }
@@ -55,14 +55,14 @@ html, body {
   height: 100%;
 }
 body {
-  background-color: #002b36;
+  background-color: #666;
   font-family: Georgia, serif;
 }
 #page {
   margin: 0 auto;
   width: 40.5em;
   min-height: 100%;
-  background-color: #fdf6e3;
+  background-color: #fff;
 }
 #site-head {
   padding: 4.1em 9em 0 4.5em;
@@ -125,7 +125,7 @@ article header h1 + p {
   margin-top: -2rem;
   padding-bottom: 32px;
   padding-bottom: 2rem;
-  color: #657b83;
+  color: #999;
 }
 
 /* Body text */
@@ -147,7 +147,7 @@ ol + p {
   text-indent: 0;
 }
 a {
-  color: #cb4b16;
+  color: #933;
   text-decoration: none;
 }
 a:hover,
@@ -156,7 +156,7 @@ a:hover,
 header p a,
 footer a,
 ul.contents a:hover span {
-  color: #073642;
+  color: #633;
 }
 header p a:hover,
 footer a:hover {
@@ -169,7 +169,7 @@ article > p:last-of-type:after {
   content: "\0020\25ca";
 }
 footer {
-  color: #657b83;
+  color: #999;
 }
 .footnotes ol,
 article header p,
@@ -211,19 +211,19 @@ ul.contents {
 ul.contents li a {
   display: block;
   padding: 0.5em 0;
-  border-bottom: 1px solid #eee8d5;
+  border-bottom: 1px solid #ccc;
   overflow: hidden;
 }
 ul.contents li:last-child a {
   border: none;
 }
 ul.contents a:hover {
-  background: #eee8d5;
+  background: #ccc;
 }
 ul.contents li span {
   float: right;
   margin: 0 0 0 1em;
-  color: #657b83;
+  color: #666;
 }
 
 /* ==========================================================================
