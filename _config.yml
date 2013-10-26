@@ -3,7 +3,7 @@ shortname: 'D.&thinsp;R. Driver'
 title: Biblical Studies &amp; Theology
 timezone: America/Toronto
 
-permalink: ordinal
+permalink: /:categories/:year/:month/:title/
 paginate_path: 'page:num'
 
 markdown: kramdown
