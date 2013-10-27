@@ -11,10 +11,12 @@
   </head>
   <body>
     <div id="page">
-      <header id="site-head" class="cf">
+      <header id="site-head">
         <h1>
-          <a href="/">{{ site.name }}</a>
-          <em>{{ site.title }}</em>
+          <a href="/">
+            <span>{{ site.name }}</span>
+            <em>{{ site.title }}</em>
+          </a>
         </h1>
         <nav>
           <ul>
@@ -28,7 +30,7 @@
       <div id="textblock">
 {{ content }}
       </div>
-      <footer class="cf">
+      <footer>
         <p class="pull-left">Copyright &copy; 2005&ndash;2013 <a href="https://danieldriver.com/">{{ site.shortname }}</a>. All rights reserved.</p>
         <p class="pull-right"><a href="https://twitter.com/danieldriver">@danieldriver</a></p>
       </footer>
