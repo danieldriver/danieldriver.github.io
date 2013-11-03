@@ -1,25 +1,24 @@
 ---
 layout: post
-title: 'New Fonts and RTL Script Support in OS X 10.9 Mavericks'
+title: 'New Fonts and RTL Language Support in OS X 10.9 Mavericks'
 date: 2013-11-02
 category: type
 ---
 
 There have been plenty of [complaints][unhappy] about the loss of
 features in Apple's 2013 rewrite of iWork, which has been called a
-[regression][] and a [disaster][]. As someone who has never put any work
-into automating Keynote, Numbers or Pages, however, I would like to call
-out a feature that counts as a major advance in my line of work: support
-for right-to-left scripts.
+[regression][] and a [disaster][]. I'm not the heaviest user Keynote,
+Numbers or Pages, but I would like to call out a feature that counts as
+a major advance in my line of work: support for right-to-left languages.
 
 [unhappy]: http://www.macrumors.com/2013/10/25/some-power-users-are-unhappy-with-lost-features-in-the-new-iwork/
 [regression]: http://www.libertypages.com/clarktech/?p=6597
 [disaster]: http://www.betalogue.com/2013/10/24/pages-5-disaster/
 
 The first hint of deeper system support for RTL scripts came in the App
-Store, which offered a new version of iTunes as soon as I upgraded to
-Mavericks. The new version (11.1.2) "now supports OS X Mavericks," it
-announced, and "also adds support for Arabic and Hebrew."
+Store, which offered an upgrade of iTunes as soon as I had installed
+Mavericks. The new version "now supports OS X Mavericks," and "also adds
+support for Arabic and Hebrew."
 
 ![RTL support in iTunes](/img/rtl-itunes.png)
 
@@ -29,12 +28,12 @@ Mavericks to notes I had made about system fonts last year, after making
 a clean install of Mountain Lion. Mavericks comes with 207 font
 families, according to the Font Book app, up from 176 fonts in Mountain
 Lion. Since I like to know what fonts I have at my disposal, I decided
-to take a closer look. Happily for someone who is teaching a course in
-biblical Hebrew, several changes seem to reflect the attention Apple's
-engineers have paid to Hebrew language support in particular.
+to take a closer look. Happily for someone who teaches biblical Hebrew,
+several changes seem to reflect the attention Apple's engineers have
+paid to Semitic language support in particular.
 
-OS X puts fonts in two places, and the number of fonts in both
-directories is higher. Here's a summary of the changes I note.
+Mac OS X keeps font files in two places, and the number of fonts in both
+directories is higher. Here's a summary of the changes I found.
 
 System Font Library (net +4)
 ----------------------------
@@ -160,7 +159,7 @@ Xingkai, Yuanti, Yuppy). Add to this the reorganization of the Hebrew
 fonts, and the addition of no less than a dozen fonts that support
 Arabic (Al Nile, Al Tarikh, Beirut, Diwan Kufi, Diwan Thuluth, Farah,
 Farisi, Kaiti, Mishafi, Muna, Sana, Waseem), and I begin to suspect that
-OS X Mavericks represents a systematic expansion of language support,
+OS X Mavericks represents a significant expansion of language support,
 which of course has always been one of Apple's strengths.
 
 And I am happy to report that these fonts are far more usable in iWork
@@ -186,7 +185,6 @@ LTR to RLT and back as obvious and easy.
 
 ![RTL support in Pages](/img/rtl-names.png)
 
-Again, in my line of work this is a very tangible and welcome advance. I
+Again, in my world this is a very tangible and welcome advance. I
 haven't generally used iWork for "serious" work, but the addition of RTL
-script support in the most recent update has already started to change
-that.
+support in the most recent update has already started to change that.
