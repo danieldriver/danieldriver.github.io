@@ -23,7 +23,7 @@ Amazon.ca. Their prices are current as of today.
 
 ## BSTH 1013: Old Testament Scripture
 
-1. ESV translation (any format). This translation is required. Crossway puts out many editions, but you can get a [readable newsprint ESV][2] for about $5.
+1. ESV translation of the Bible (any format). (The NRSV and NJPS translations, which are more common in scholarly circles, are the only allowable substitutes.) Crossway puts out many editions, but you can get a [readable newsprint ESV][2] for about $5.
 
 2. *The Sabbath*, by A.J. Heschel -- [Paperback][3], $10.83
 
