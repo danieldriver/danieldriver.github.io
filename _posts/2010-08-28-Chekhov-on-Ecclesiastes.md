@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Anton Chekhov's unfinished play on the book of Ecclesiastes"
-date: 2010/08/28 06:13:48 PM    
-tags: HB/OT    
+date: 2010/08/28 06:13:48 PM
+tags: HB/OT
 books:
   - isbn10:    0631225293
     title:     Ecclesiastes Through the Ages
     by:        Eric S. Christianson
     series:    Blackwell Bible Commentaries
     city:      Oxford
-    publisher: Wiley-Blackwell 
+    publisher: Wiley-Blackwell
     year:      2007
 ---
 
@@ -44,10 +44,8 @@ Then again, I can see why Chekhov never took the concept further. It is
 interesting that some biblical scholars recommend thinking of
 Ecclesiastes as a one-man play, though.
 
-{% for book in page.books %}
-{% include book.html %}
-{% endfor %}
+
 
 The citation comes from a 1968 study of the fragment by Peter
-Rossbacher. I copy it as cited in Eric Christianson’s *Ecclesiastes Through the Ages*, 
+Rossbacher. I copy it as cited in Eric Christianson’s *Ecclesiastes Through the Ages*,
 p. 68. Christianson highlights the biblical references in brackets.
