@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 'New Fonts and RTL Language Support in OS X 10.9 Mavericks'
-date: 2013-11-02
-category: type
+title: "New Fonts and RTL Support in OS X 10.9 Mavericks"
+tagline: "I can live without OpenType support for a bit if new fundamentals provide for a bidirectional future."
+description: "The new iWork is a step backwards, except in its support of RTL languages like Arabic and Hebrew."
+category: notes
 ---
 
 There have been plenty of [complaints][unhappy] about the loss of
 features in Apple's 2013 rewrite of iWork, which has been called a
 [regression][] and a [disaster][]. I'm not the heaviest user Keynote,
 Numbers or Pages, but I would like to call out a feature that counts as
-a major advance in my line of work: support for right-to-left languages.
+a major advance in my line of iWork: support for right-to-left languages.
 
 [unhappy]: http://www.macrumors.com/2013/10/25/some-power-users-are-unhappy-with-lost-features-in-the-new-iwork/
 [regression]: http://www.libertypages.com/clarktech/?p=6597
@@ -20,7 +21,7 @@ Store, which offered an upgrade of iTunes as soon as I had installed
 Mavericks. The new version "now supports OS X Mavericks," and "also adds
 support for Arabic and Hebrew."
 
-![RTL support in iTunes](/img/rtl-itunes.png)
+![RTL support in iTunes](/images/rtl-itunes.png)
 
 Shortly thereafter I noticed that the number of pre-installed fonts had
 changed, and so I compared the font libraries in a clean install of
@@ -62,7 +63,7 @@ predecessor lacks. Having both together invites further comparison.
 
 [100best]: http://www.100besttypefaces.com/
 
-![Frutiger and Kobayashi in 2004](/img/Frutiger2004.jpg)
+![Frutiger and Kobayashi in 2004](/images/Frutiger2004.jpg)
 
 ### Compressions (-1)
 
@@ -81,7 +82,7 @@ number of new typefaces since, compared with OS 10.8, the number of
 files is reduced in three ways in OS 10.9. There are removals for
 promotion to the system library, compressions of `.ttf` files into
 `.ttc` collections, and outright deletions.
- 
+
 ### Removals for Promotion (-5)
 
 See the list promotions, above.
@@ -103,7 +104,7 @@ See the list promotions, above.
 
 ### Deletions (-4)
 
-- 宋体.ttc 
+- 宋体.ttc
 - 楷体.ttc
 - 雅痞-简.otf
 - 雅痞-繁.otf
@@ -183,7 +184,7 @@ Here, for instance, is a file with name cards for my students.
 To now, Mellel has been the only other word that makes switching from
 LTR to RLT and back as obvious and easy.
 
-![RTL support in Pages](/img/rtl-names.png)
+![RTL support in Pages](/images/rtl-names.png)
 
 Again, in my world this is a very tangible and welcome advance. I
 haven't generally used iWork for "serious" work, but the addition of RTL

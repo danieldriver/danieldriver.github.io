@@ -1,24 +1,67 @@
-name: Daniel R. Driver
-shortname: 'D.&thinsp;R. Driver'
-title: Biblical Studies &amp; Theology
-timezone: America/Toronto
+title:            danieldriver.com
+tagline:          A short tagline
+description:      Describe your website.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
 
-permalink: /:categories/:year/:month/:title/
-paginate_path: 'page:num'
+# Owner/author information
+owner:
+  name:           Daniel R. Driver
+  avatar:         drd.jpg
+  bio:            "Assistant Professor of Old Testament at Tyndale UC, in Toronto."
+  email:          mail@danieldriver.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: danieldriver
+  facebook:
+  github: danieldriver
+  linkedin:
+  instagram:
+  lastfm:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus: 115677918682543325685
 
-markdown: kramdown
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-21845990-3
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/
+  - title: Notes
+    url: /notes/
+  - title: Theme Setup
+    url: /theme-setup/
+  - title: Lente.net
+    url: http://lente.net
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Toronto
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
   use_coderay: false
 
   coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
-    coderay_css: style
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

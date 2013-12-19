@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Quotidian fonts: a reading list'
-date: 2012-11-26
+description: "Arial vs. Helvetica, Comic Sans, Matthew Carter, Microsoft ClearType and Airports."
+category: notes
 ---
 
 Arial, Helvetica

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Review of Denis Minns, *Irenaeus: An Introduction*"
-date: 2011-06-06 11:59 am
-tags: [publications, reviews, Irenaeus, Minns D]
+title: "Review of Denis Minns, Irenaeus: An Introduction"
+description: "Minns succeeds in showing why Irenaeus can be worth reading."
+category: notes
+tags: [reviews, Irenaeus, Minns]
 ---
 
 Denis Minns presents two major reasons for addressing the work of Irenaeus, despite the fact that the second century apologist had little direct influence on theological developments in the third century and beyond. The first concerns the breadth of his writing, which seeks to confound heretics with arguments drawn "from the widest possible base… In consequence of this strategy he has left us a remarkably comprehensive picture of what was believed by Christians who thought themselves orthodox in the late second century." Minns' second reason lends his introduction clarity of purpose, for Irenaeus "offers to those more used to a catholicism overshadowed by the figure of St Augustine a remarkably fresh and different outlook" (p. 152). What makes this particular introduction stand out is the light touch with which its author handles so many historical moments --- those leading up to and including Irenaeus; those of the Niceno-Constantinopolitan controversies by which Irenaeus' thought has inevitably been judged; that of Erasmus in republishing *Adversus Haereses* after a thousand years; and so on --- always with an eye to theology's present interest and need.

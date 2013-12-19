@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Winter 2014 Textbooks
-date: 2013-11-20
+description: "Future students, these books are required for my courses next semester."
+category: notes
 ---
 
 To my future students:

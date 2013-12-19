@@ -1,19 +1,11 @@
 ---
 layout: post
 title: "Anton Chekhov's unfinished play on the book of Ecclesiastes"
-date: 2010/08/28 06:13:48 PM
-tags: HB/OT
-books:
-  - isbn10:    0631225293
-    title:     Ecclesiastes Through the Ages
-    by:        Eric S. Christianson
-    series:    Blackwell Bible Commentaries
-    city:      Oxford
-    publisher: Wiley-Blackwell
-    year:      2007
+description: "60 years before Beckett’s Waiting for Godot, Chekhov had outlined a play based on Ecclesiastes."
+category: notes
 ---
 
-Anton Chekhov, it may surprise you to learn, had outlined a play based
+Anton Chekhov, I was delighted to learn, had outlined a play based
 on Ecclesiastes in a notebook (c. 1892). Would that it had been written.
 A fragment, packed with allusions to the book, concentrates on the theme
 of darkness:

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'WCST &ndash; Brazos Bible Commentary Series: An Analysis and Critique'
-date: 2011-05-13
-category: wcst
+title: "Brazos Bible Commentary Series: An Analysis and Critique"
+tagline: "A Wycliffe Centre for Scripture &amp; Theology Event"
+description: "The Spring 2011 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
+category: notes
 ---
 
 Wycliffe College is pleased to inaugurate its new **Wycliffe Centre for Scripture & Theology** (WCST) with a two-part colloquium on 13 and 14 May 2011.
@@ -23,4 +24,4 @@ The subject of the first WCST colloquium is "The Character of Theological Exeges
 * **Prof. Mark Elliott** (St. Andrew’s University, Scotland)
 * **Prof. R. R. Reno** (Editor, First Things, and Editor-in-Chief, Brazos Bible Commentaries)
 
-[Download the event flyer.](/img/wcst/WCST-2011-Spring.pdf)
+<div markdown="0"><a href="/images/pdf/WCST-2011-Spring.pdf" class="btn">Download the event flyer</a></div>

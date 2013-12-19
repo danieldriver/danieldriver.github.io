@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'WCST &ndash; Exegetical Method and Interpretation after the “New Perspectives”'
-date: 2013-10-18
-category: wcst
+title: "Exegetical Method and Interpretation after the “New Perspectives”"
+tagline: "A Wycliffe Centre for Scripture &amp; Theology Event"
+description: "The Fall 2013 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
+category: notes
 ---
 
 * **Dr. Ian W. Scott** (Tyndale Seminary)
@@ -21,4 +22,4 @@ category: wcst
 	- Response to the day's papers
 	- Author of *Galatians* (Baker, 2011), *At the Heart of the Gospel: Suffering in the Earliest Christian Message* (Eerdmans, 2007).
 
-[Download the event flyer.](/img/wcst/WCST-2013-Fall.pdf)
+<div markdown="0"><a href="/images/pdf/WCST-2013-Fall.pdf" class="btn">Download the event flyer</a></div>

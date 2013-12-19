@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Universität Osnabrück on BSC  
-date: 2007-06-27 03:04:00 PM    
-tags: [Steins G, Childs B, RIP]
-categories: nb
-intro: "Georg Steins sends regrets in an official response on behalf of the <a href='http://www.kath-theologie.uni-osnabrueck.de/'>Institut für Katholische Theologie</a>, at the Universität Osnabrück, because (in his words) &#8220;wir in Osanbrück viel zu verdanken haben.&#8221; The letter appears here with his permission."
+title: Universität Osnabrück on BSC
+tagline: "An open letter posted on behalf of Georg Steins"
+description: "Georg Steins sends condolences on behalf of the the Universität Osnabrück, because “wir in Osanbrück viel zu verdanken haben.”"
+tags: [Steins, Childs, obituary]
+categories: notes
+intro: ""
 ---
 
 Sehr geehrte Frau Childs,
@@ -54,5 +55,4 @@ Anfang und unser Ende in seinen guten Vaterhänden hält.
 
 Es grüßt Sie
 
-*gez. Georg
-Steins*
+*gez. Georg Steins*

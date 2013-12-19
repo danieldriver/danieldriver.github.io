@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'WCST &ndash; Scripture and the “Rule of Faith”'
-date: 2012-10-19
-category: wcst
+title: "Scripture and the “Rule of Faith”"
+tagline: "A Wycliffe Centre for Scripture &amp; Theology Event"
+description: "The Fall 2012 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
+category: notes
 ---
 
 The notion of a "rule of faith" governing the Church's Scriptural Interpretation has been a matter of recent historical debate among scholars of the early church, but also many theologians working in our difficult pluralistic settings. The fall colloquium will offer substantive contribution to this debate about scriptural and theological norms in the early church and beyond.
@@ -14,4 +15,4 @@ Presentations by:
 * **Dr. Mark Elliott** (The University of St. Andrews)
 * **Rev. Dr. Christopher Seitz** (Wycliffe College)
 
-[Download the event flyer.](/img/wcst/WCST-2012-Fall.pdf)
+<div markdown="0"><a href="/images/pdf/WCST-2012-Fall.pdf" class="btn">Download the event flyer</a></div>
