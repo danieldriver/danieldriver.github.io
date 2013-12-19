@@ -19,7 +19,7 @@ owner:
   lastfm:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/115677918682543325685?rel=author
+#  google_plus: https://plus.google.com/115677918682543325685?rel=author
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-21845990-3
