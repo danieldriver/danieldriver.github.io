@@ -2,7 +2,7 @@ title:            danieldriver.com
 tagline:          A short tagline
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://danieldriver.com
 
 # Owner/author information
 owner:
