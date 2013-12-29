@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'Israel Study Tour 2013'
-date: 2013-05-13
+title: "Israel Study Tour, 2013 Itinerary"
+description: "A three-week course on the Historical Geography of the Bible, conducted on location in Israel from 12 May to 3 June 2013."
+date: 2013-05-12
+category: notes
 ---
 
 ## Historical Geography of the Bible
@@ -15,7 +17,7 @@ at Tyndale during the Winter 2013 semester.
 Instructors:
 
 * Tyndale Seminary: Dr. Rebecca Idestrom
-* Tyndale University College: Dr. Daniel Driver 
+* Tyndale University College: Dr. Daniel Driver
 * University of the Holy Land:	Dr. Ginger Caessens
 
 Please note that this course can count as either a New Testament
@@ -55,7 +57,7 @@ involve significant amounts of walking in a hot climate.
 - **Friday, May 24**, Dead Sea Area Field Trip: Masada, En-gedi, and Qumran. Special evening lecture on the Dead Sea Scrolls by Dr. Stephen Pfann. Overnight in Jerusalem.
 - **Saturday, May 25**, Free Day. Overnight in Jerusalem.
 - **Sunday, May 26**, Morning quiz followed by free time; afternoon lectures. Overnight in Jerusalem.
-- 
+-
 - **Monday, May 27**, Ephraim, Samaria and Mount Carmel Field Trip: Kh. Seilun/Shiloh, Tell Balatah/Shechem, Samaria/Sebaste/Sebastia and Mukhraka (traditional site of Elijah’s confrontation with the prophets of Baal on Mount Carmel). Overnight on Mt. Carmel.
 - **Tuesday, May 28**, Sharon Plain and Jezreel Valley Field Trip: Caesarea, Tel Megiddo/ Tell el- Mutesellim and overview of the Arbel cliffs. Overnight by the Sea of Galilee.
 - **Wednesday, May 29**, Sea of Galilee Area Field Trip: Boat ride on the Sea of Galilee, Museum of First Century Boat (at Kibbutz Nof Ginosar), Magdala, Chorazim, Capernaum, et-Tell (Bethsaida?), overview of el-Kursi (Gergesa), and Tel Sussita/Qalat el-Husn (Hippos). Overnight by the Sea of Galilee.

@@ -1,0 +1,30 @@
+---
+layout: default
+permalink: /notes/index.html
+title: Archive of Notes
+---
+
+<div class="section-bg-color1">
+	<div class="row first-row">
+		<div class="small-12 medium-8 large-7 columns small-centered">
+			<h1 class="archive-title">{{ page.title }}</h1>
+			{% for post in site.posts %}
+			{% unless post.next %}
+				<h2 class="archive-year"><span>{{ post.date | date: '%Y' }}</span></h2>
+			{% else %}
+				{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+				{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+				{% if year != nyear %}
+				<h2 class="archive-year"><span>{{ post.date | date: '%Y' }}</span></h2>
+				{% endif %}
+			{% endunless %}
+			<div class="archive-item">
+				<h3><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+				<p class="description"><span>{{ post.date | date: "%-d %B" }}</span> {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+
+

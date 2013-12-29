@@ -2,8 +2,11 @@
 layout: post
 title: "Exegetical Method and Interpretation after the “New Perspectives”"
 tagline: "A Wycliffe Centre for Scripture &amp; Theology Event"
-description: "The Fall 2013 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
+description: "Speakers at the Fall 2013 colloquium of the Wycliffe Centre for Scripture &amp; Theology: Douglas Harink, Ann Jervis, Ian Scott, Stephen Westerholm."
 category: notes
+button:
+  link: /img/pdf/WCST-2013-Fall.pdf
+  text: Download the event flyer &rarr;
 ---
 
 * **Dr. Ian W. Scott** (Tyndale Seminary)
@@ -21,5 +24,3 @@ category: notes
 * **Dr. Ann Jervis** (Wycliffe College)
 	- Response to the day's papers
 	- Author of *Galatians* (Baker, 2011), *At the Heart of the Gospel: Suffering in the Earliest Christian Message* (Eerdmans, 2007).
-
-<div markdown="0"><a href="/images/pdf/WCST-2013-Fall.pdf" class="btn">Download the event flyer</a></div>

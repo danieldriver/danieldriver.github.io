@@ -1,44 +1,32 @@
-title:            danieldriver.com
-tagline:          A short tagline
-description:      Describe your website.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://danieldriver.com
+name:             D.&thinsp;R. Driver
+description:      "Describe the website."
 
-# Owner/author information
+# Author information
 owner:
-  name:           Daniel R. Driver
-  avatar:         drd.jpg
-  bio:            "Assistant Professor of Old Testament at Tyndale UC, in Toronto."
+  name:           Daniel Driver
+  avatar:         drd.png
   email:          mail@danieldriver.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: danieldriver
-  facebook:
-  github: danieldriver
-  linkedin:
-  instagram:
-  lastfm:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-#  google_plus: https://plus.google.com/115677918682543325685?rel=author
+  twitter:        danieldriver
+  github:         danieldriver
+  # For Google Authorship see https://plus.google.com/authorship
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-21845990-3
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in top navigation
-# For external links add external: true
 links:
-  - title: About
-    url: /about/
+  - title: Home
+    url: /
   - title: Notes
     url: /notes/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Lente.net
-    url: http://lente.net
-    external: true
+  - title: Childs
+    url: /bsc/
+  - title: About
+    url: /about/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Toronto
@@ -63,5 +51,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+#include: [".htaccess"]
+#exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

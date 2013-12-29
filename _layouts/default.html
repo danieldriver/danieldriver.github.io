@@ -1,0 +1,59 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>{{ page.title }} &mdash; danieldriver.com</title>
+	<meta name="description" content="Page description goes here">
+
+	<link href="/css/willamette.css" rel="stylesheet">
+	<link href="/css/font-awesome.min.css" rel="stylesheet">
+	<script src="/js/vendor/modernizr.js"></script>
+</head>
+<body>
+
+<header>
+	<div class="row">
+		<div class="small-12 medium-12 large-12 columns">
+			<h2><a href="/">{{ site.name }}</a></h2>
+		</div>
+	</div>
+</header>
+
+<nav>
+	<div class="row">
+		<div class="small-12 medium-12 large-12 columns">			
+			<ul>
+				{% assign url = page.url|remove:'index.html' %}
+				{% for link in site.links %}
+				<li><a href="{{ link.url }}"{% if url == link.url %} class="current"{% endif %}>{{ link.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</nav>
+
+{{ content }}
+
+<footer class="section-bg-color2">
+	<div class="row">
+		<div class="small-12 medium-12 large-12 columns">
+			<ul>
+				<li>&copy; {{ site.time | date: '%Y' }} by {{ site.owner.name }}. All rights reserved.</li>
+				<li>Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="http://www.typeandgrids.com">Type &amp; Grids</a>.</li>
+			</ul>			
+			<div class="social-icons">
+{% if site.owner.twitter %}				<a href="http://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+{% if site.owner.github %}				<a href="http://github.com/{{ site.owner.github }}"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/foundation.min.js"></script>
+<script src="/js/willamette.js"></script>
+
+</body>
+</html>

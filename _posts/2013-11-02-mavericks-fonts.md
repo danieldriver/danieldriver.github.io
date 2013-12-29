@@ -2,7 +2,7 @@
 layout: post
 title: "New Fonts and RTL Support in OS X 10.9 Mavericks"
 tagline: "I can live without OpenType support for a bit if new fundamentals provide for a bidirectional future."
-description: "The new iWork is a step backwards, except in its support of RTL languages like Arabic and Hebrew."
+description: "The new iWork is a step backwards, except in its support of right-to-left languages like Arabic and Hebrew."
 category: notes
 ---
 
@@ -21,7 +21,7 @@ Store, which offered an upgrade of iTunes as soon as I had installed
 Mavericks. The new version "now supports OS X Mavericks," and "also adds
 support for Arabic and Hebrew."
 
-![RTL support in iTunes](/images/rtl-itunes.png)
+![RTL support in iTunes](/img/rtl-itunes.png)
 
 Shortly thereafter I noticed that the number of pre-installed fonts had
 changed, and so I compared the font libraries in a clean install of
@@ -63,7 +63,7 @@ predecessor lacks. Having both together invites further comparison.
 
 [100best]: http://www.100besttypefaces.com/
 
-![Frutiger and Kobayashi in 2004](/images/Frutiger2004.jpg)
+![Frutiger and Kobayashi in 2004](/img/Frutiger2004.jpg)
 
 ### Compressions (-1)
 
@@ -184,7 +184,7 @@ Here, for instance, is a file with name cards for my students.
 To now, Mellel has been the only other word that makes switching from
 LTR to RLT and back as obvious and easy.
 
-![RTL support in Pages](/images/rtl-names.png)
+![RTL support in Pages](/img/rtl-names.png)
 
 Again, in my world this is a very tangible and welcome advance. I
 haven't generally used iWork for "serious" work, but the addition of RTL
