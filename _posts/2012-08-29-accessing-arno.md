@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Accessing Arno Pro: A Preamble'
 date: 2012-08-29
 ---

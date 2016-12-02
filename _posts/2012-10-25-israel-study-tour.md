@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Israel Study Tour, 2013 Itinerary"
-description: "A three-week course on the Historical Geography of the Bible, conducted on location in Israel from 12 May to 3 June 2013."
+desc: "A three-week course on the Historical Geography of the Bible, conducted on location in Israel from 12 May to 3 June 2013."
 date: 2013-05-12
 category: notes
 ---

@@ -1,13 +1,8 @@
 ---
-layout: post
 title: "Two New Collections on Kanon/Canon"
-description: "The second half of 2007 saw two new collections of essays on canon (“kanon” in German)."
+desc: "The second half of 2007 saw two new collections of essays on canon (“kanon” in German)."
 category: notes
 tags: [canon, Janowski B, Ballhorn E, Steins G]
-image:
-  feature: texture-feature-04.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 While it is still 2007 I want to mention two new collections of essays

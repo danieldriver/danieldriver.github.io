@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Universität Osnabrück on BSC
-tagline: "An open letter posted on behalf of Georg Steins"
-description: "Georg Steins sends condolences on behalf of the the Universität Osnabrück, because “wir in Osanbrück viel zu verdanken haben.”"
+desc: "Georg Steins sends condolences on behalf of the the Universität Osnabrück, because “wir in Osanbrück viel zu verdanken haben.”"
 tags: [Steins, Childs, obituary]
 categories: notes
-intro: ""
 ---
 
 Sehr geehrte Frau Childs,

@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Childs vs. Frei on Barth, YDS 1969
-tagline: "From the 1969 Yale Colloquium on Karl Barth"
-description: "Part of a transcript from the 1969 Yale Colloquium held in memory of Karl Barth."
+desc: "Part of a transcript from the 1969 Yale Colloquium held in memory of Karl Barth."
 category: notes
 tags: [Childs, Frei, Barth, Yale, sensus literalis]
 ---
+
+## From the 1969 Yale Colloquium on Karl Barth
 
 In preparing for a seminar discussion I'm leading tomorrow, I dug up
 some papers I haven't looked at for a while, including the rare

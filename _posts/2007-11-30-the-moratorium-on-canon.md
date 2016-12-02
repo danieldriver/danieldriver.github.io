@@ -1,7 +1,6 @@
 ---
-layout: post
-title: The Moratorium on Canon  
-date: 2007-11-30 09:19:00 PM    
+title: The Moratorium on Canon
+date: 2007-11-30 09:19:00 PM
 tags: [canon, anachronism, Steins G]
 ---
 

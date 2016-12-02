@@ -1,7 +1,7 @@
 ---
-layout: post
 title: The 2012 Tyndale Biblical Symposium
 date: 2012-02-04
+category: WCST
 ---
 
 Tyndale faculty and alumni will present results from their current research on Saturday, 4 Feb 2012, from 9:30am &ndash; 4:00pm. Registration is free.

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Review of Denis Minns, Irenaeus: An Introduction"
-description: "Minns succeeds in showing why Irenaeus can be worth reading."
+desc: "Minns succeeds in showing why Irenaeus can be worth reading."
 category: notes
 tags: [reviews, Irenaeus, Minns]
 ---

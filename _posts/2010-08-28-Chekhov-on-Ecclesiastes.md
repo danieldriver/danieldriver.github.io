@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Anton Chekhov's unfinished play on the book of Ecclesiastes"
-description: "60 years before Beckett’s Waiting for Godot, Chekhov had outlined a play based on Ecclesiastes."
+desc: "60 years before Beckett’s Waiting for Godot, Chekhov had outlined a play based on Ecclesiastes."
 category: notes
 ---
 

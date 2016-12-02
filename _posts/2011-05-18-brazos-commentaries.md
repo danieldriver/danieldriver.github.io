@@ -1,12 +1,7 @@
 ---
-layout: post
 title: "Brazos Bible Commentary Series: An Analysis and Critique"
-tagline: "A Wycliffe Centre for Scripture &amp; Theology Event"
-description: "The Spring 2011 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
-category: notes
-button:
-  link: /img/pdf/WCST-2011-Spring.pdf
-  text: Download the event flyer &rarr;
+desc: "The Spring 2011 colloquium of the Wycliffe Centre for Scripture &amp; Theology."
+category: WCST
 ---
 
 Wycliffe College is pleased to inaugurate its new **Wycliffe Centre for Scripture & Theology** (WCST) with a two-part colloquium on 13 and 14 May 2011.

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "New Fonts and RTL Support in OS X 10.9 Mavericks"
-tagline: "I can live without OpenType support for a bit if new fundamentals provide for a bidirectional future."
-description: "The new iWork is a step backwards, except in its support of right-to-left languages like Arabic and Hebrew."
+desc: "The new iWork may be a step backwards, but not in its support of right-to-left languages like Arabic and Hebrew."
 category: notes
 ---
 

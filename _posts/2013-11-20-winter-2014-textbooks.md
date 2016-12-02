@@ -1,19 +1,16 @@
 ---
-layout: post
 title: Winter 2014 Textbooks
-description: "Future students, these books are required for my courses next semester."
+desc: "These books are required for my courses next semester."
 category: notes
 ---
 
-To my future students:
-
 The Winter 2014 semester approaches, and it's not too soon to think
 about the books you'll need. The Tyndale bookstore stocks all required
-texts for Tyndale classes, and you can look up [classes by semester][1]
+texts for Tyndale classes, and you can look up classes by semester
 on their website.
 
 Many people look for better prices online, and Amazon.ca does often
-undercut our bookstore --- though they don't offer $50/class vouchers
+undercut the bookstore --- though they don't offer $50/class vouchers
 for early registrants! If you go your own way, though, there is a risk
 of picking up the wrong edition of a book. This has happend to students
 before you, and it is not ideal.
@@ -27,8 +24,7 @@ Amazon.ca. Their prices are current as of today.
 1. ESV translation of the Bible (any format). (The NRSV and NJPS translations, which are more common in scholarly circles, are the only allowable substitutes.) Crossway puts out many editions, but you can get a [readable newsprint ESV][2] for about $5.
 
 2. *The Sabbath*, by A.J. Heschel -- [Paperback][3], $10.83
-
-The bookstore sells a dozen varieties of the ESV, and lists Heschel for $15.
+fies of the ESV, and lists Heschel for $15.
 
 ## BSTH 3103: Pentateuch
 

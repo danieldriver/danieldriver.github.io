@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Donald Knuth’s earthshaking announcement'
 date: 2012-08-29
 ---

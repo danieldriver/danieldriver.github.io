@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Brevard Childs, 1923–2007
-description: "Brevard Childs died on Saturday, 23 June 2007, in New Haven. This is my tribute."
+desc: "Brevard Childs died on Saturday, 23 June 2007, in New Haven. This is my tribute."
 category: notes
 tags: [Childs, obituary]
 ---

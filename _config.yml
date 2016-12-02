@@ -1,55 +1,65 @@
-name:             D.&thinsp;R. Driver
-description:      "Describe the website."
+# The main config file for your Jekyll template
 
-# Author information
-owner:
-  name:           Daniel Driver
-  avatar:         drd.png
-  email:          mail@danieldriver.com
-  twitter:        danieldriver
-  github:         danieldriver
-  # For Google Authorship see https://plus.google.com/authorship
-  google_plus:
+# Site settings
+title: danieldriver.com
+desc: 'The personal website of Daniel R. Driver, teacher and student of the Hebrew Bible / Old Testament at the Atlantic School of Theology.'
+url: https://danieldriver.com
+baseurl: ''                 # the subpath of your site, e.g. /blog
+permalink: /:year/:title/   # how should we display posts url
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Meta settings
+email: daniel@lente.net
+author: Daniel R. Driver
+twitter_username: danieldriver
+github_username: danieldriver
+github_source: danieldriver.github.io
 
-# Links to include in top navigation
-links:
-  - title: Home
-    url: /
+# Put your ga tracking code below
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Pagination settings
+paginate: 5                           # number of posts to show per page
+paginate_path: "/notes/page:num/"  # link scheme for notes, should be left as is
+
+# Navigation settings
+# Used to define the navigation menu items
+# > Title is the tile of the navigation item, url the url and desc is the tooltip
+navigation:
+  - title: Courses
+    url: /courses/
+    desc: Resources related to my teaching
+  - title: Work
+    url: /work/
+    desc: Key academic publications
   - title: Notes
     url: /notes/
-  - title: Childs
-    url: /bsc/
+    desc: Occasional short notes
   - title: About
     url: /about/
+    desc: More about me
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Toronto
-future:      true
-pygments:    true
-markdown:    kramdown
+# Used by Jekyll to recognize what is a post and what is a page
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
+# Markdown parser settings
+markdown: kramdown
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  input: GFM
+  hard_wrap: false          # you can change this if you feel like it
+  parse_block_html: true    # allow parsing html inside markdown
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# Build settings
+include:
+  - _pages                  # all your pages can be put inside pages (except notes)
+exclude:
+  - README.md
+  - vendor
+gems:
+  - jekyll-paginate
 
-#include: [".htaccess"]
-#exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Brevard Childs Dies
-description: "Several people have reacted publicly to the news of Childs’ death. Some of them include personal reminiscences."
+desc: "Several people have reacted publicly to the news of Childs’ death. Some of them include personal reminiscences."
 category: notes
 tags: [Childs, obituary]
 ---
