@@ -15,7 +15,7 @@ github_username: danieldriver
 github_source: danieldriver.github.io
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-21845990-3'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page

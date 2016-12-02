@@ -11,7 +11,7 @@ content which I put up on it. Regarding the website content, I assert my
 moral right to be identified as the author of this work. It is subject
 to the applicable copyright laws.
 
-[1]: https://clenemt.github.io/jackal/
+[1]: https://github.com/clenemt/jackal
 
 # Usage
 
