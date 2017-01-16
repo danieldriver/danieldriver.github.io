@@ -22,14 +22,14 @@ permalink: /courses/
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3111/">HB 3111</a></h4>
-        <p><em>The Book of Genesis</em> (Winter 2017): tk.</p>
+        <p><em>The Book of Genesis</em> (Winter 2017): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3112/">HB 3112</a></h4>
-        <p><em>Psalms in Interpretation</em> (Winter 2017): tk.</p>
+        <p><em>Psalms in Interpretation</em> (Winter 2017): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
       </div>
     </div>
 
@@ -84,7 +84,7 @@ permalink: /courses/
 - The History and Religion of Ancient Israel (PG Tutor)
 - Scripture and Theology Seminar (PG Coordinator)
 
-### Cair Paravel Latin School, 2002--2004
+### CPLS College Preparatory School, 2002--2004
 
 - Classics of Western Literature (9th grade)
 - U.S. History (10th grade)
