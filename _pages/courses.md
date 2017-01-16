@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-subtitle: Course Offerings <em>&amp;</em> Resources
+subtitle: Course Offerings &amp; Resources
 desc: Current and recent courses offered at the Atlantic School of Theology.
 permalink: /courses/
 ---
