@@ -14,6 +14,13 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
+        <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
+        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
         <p><em>Hebrew Bible</em> (Fall 2016): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
@@ -26,15 +33,15 @@ permalink: /courses/
       </div>
     </div>
 
+  </div><!-- grid -->
+  <div class="grid no-gutters">
+
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3112/">HB 3112</a></h4>
         <p><em>Psalms in Interpretation</em> (Winter 2017): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
       </div>
     </div>
-
-  </div><!-- grid -->
-  <div class="grid no-gutters">
 
     <div class="unit one-third">
       <div class="course">
