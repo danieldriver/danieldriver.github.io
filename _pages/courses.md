@@ -14,15 +14,15 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
-        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
+        <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
+        <p><em>Hebrew Bible</em> (Fall 2017): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2016): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
+        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
       </div>
     </div>
 
