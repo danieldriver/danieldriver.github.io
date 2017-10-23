@@ -10,6 +10,7 @@ permalink: /courses/
 <p>I teach the following courses at the <a href="http://www.astheology.ns.ca/">Atlantic School of Theology</a>. In addition to covering the basics for graduate-level survey and language requirements, I try to offer a representative rotation of courses from the three parts of Tanakh: the Law, the Prophets, and the Writings.</p>
 
 <div class="courses">
+
   <div class="grid no-gutters">
 
     <div class="unit one-third">
@@ -21,10 +22,46 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
-        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
+        <h4 class="course-title"><a href="hbst-3113/">HB 3113</a></h4>
+        <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
       </div>
     </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-3114/">HB 3114</a></h4>
+        <p><em>The Twelve Prophets</em> (Winter 2018): An overview of twelve Hebrew prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of The Book of the Twelve.</p>
+      </div>
+    </div>
+
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="#">HB 31??</a></h4>
+        <p><em>Exodus and the Life of Moses</em> (Summer 2018): tk.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
+        <p><em>Beginning Biblical Hebrew I</em> (Winter 2018): tk.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
+        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): tk.</p>
+      </div>
+    </div>
+
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
 
     <div class="unit one-third">
       <div class="course">
@@ -32,9 +69,6 @@ permalink: /courses/
         <p><em>The Book of Genesis</em> (Winter 2017): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
       </div>
     </div>
-
-  </div><!-- grid -->
-  <div class="grid no-gutters">
 
     <div class="unit one-third">
       <div class="course">
@@ -45,15 +79,8 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (tbd): tk.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (tbd): tk.</p>
+        <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
+        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
       </div>
     </div>
 
@@ -88,8 +115,8 @@ permalink: /courses/
 
 ### University of St Andrews, 2005--2008
 
-- The History and Religion of Ancient Israel (PG Tutor)
-- Scripture and Theology Seminar (PG Coordinator)
+- The History and Religion of Ancient Israel (Postgraduate Tutor)
+- Scripture and Theology Seminar (Postgraduate Coordinator)
 
 ### CPLS College Preparatory School, 2002--2004
 
