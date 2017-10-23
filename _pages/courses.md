@@ -7,7 +7,7 @@ permalink: /courses/
 ---
 
 {::nomarkdown}
-<p>I teach the following courses at the <a href="http://www.astheology.ns.ca/">Atlantic School of Theology</a>. In addition to covering the basics for graduate-level survey and language requirements, I try to offer a representative rotation of courses from the three parts of Tanakh: the Law, the Prophets, and the Writings.</p>
+<p>I teach the following courses at the <a href="http://www.astheology.ns.ca/">Atlantic School of Theology</a>. In addition to covering the basics for graduate-level survey and language requirements, I try to offer a representative rotation of courses from the three parts of Tanakh by covering selections from the Law, the Prophets, and the Writings.</p>
 
 <div class="courses">
 
@@ -40,7 +40,7 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="#">HB 31??</a></h4>
+        <h4 class="course-title"><a href="hb-31xx">HB 31xx</a></h4>
         <p><em>Exodus and the Life of Moses</em> (Summer 2018): tk.</p>
       </div>
     </div>
