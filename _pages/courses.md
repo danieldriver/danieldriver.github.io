@@ -22,7 +22,7 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="hbst-3113/">HB 3113</a></h4>
+        <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
         <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
       </div>
     </div>
