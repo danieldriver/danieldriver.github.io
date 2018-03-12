@@ -40,7 +40,7 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
-        <h4 class="course-title"><a href="hb-31xx">HB 31xx</a></h4>
+        <h4 class="course-title"><a href="hb-3115">HB 3115</a></h4>
         <p><em>Exodus and the Life of Moses</em> (Summer 2018): tk.</p>
       </div>
     </div>
