@@ -1,0 +1,605 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = XeLaTeX
+% ----------------------------------------------------------------------
+% Daniel R. Driver
+% Curriculum vitae
+%
+% LaTeX template derived from: http://nitens.org/taraborelli/cvtex
+% ----------------------------------------------------------------------
+
+\documentclass[10pt]{article}
+
+% DOCUMENT LAYOUT
+\usepackage{geometry}
+\geometry{letterpaper,
+          textwidth=5.5in,
+          textheight=8.5in,
+          marginparsep=7pt,
+          marginparwidth=.6in}
+\setlength\parindent{0in}
+
+% FONTS
+\usepackage{fontspec,realscripts}
+\defaultfontfeatures{Mapping=tex-text,Numbers=OldStyle}
+\setromanfont{Arno Pro}
+\setsansfont{Scala Sans Pro}
+\setmonofont[Scale=MatchLowercase]{Menlo}
+\frenchspacing
+\usepackage[usenames,dvipsnames]{color}
+
+\renewcommand\tiny{\fontsize{6}{9}\selectfont}
+\renewcommand\scriptsize{\fontsize{7}{10}\selectfont}
+\renewcommand\footnotesize{\fontsize{8}{11}\selectfont}
+\renewcommand\small{\fontsize{9}{11}\selectfont}
+\renewcommand\normalsize{\fontsize{10}{12}\selectfont}% 10pt base size
+\renewcommand\large{\fontsize{12}{14}\selectfont}
+\renewcommand\Large{\fontsize{14}{16}\selectfont}
+\renewcommand\LARGE{\fontsize{16}{18}\selectfont}
+\renewcommand\huge{\fontsize{19}{17}\selectfont}
+\renewcommand\Huge{\fontsize{22}{24}\selectfont}
+
+% ---- CUSTOM COMMANDS
+\newcommand{\amper}{\emph{\&}}
+\newcommand{\html}[1]{\href{#1}{\footnotesize\textsc{[html]}}}
+\newcommand{\pdf}[1]{\href{#1}{\footnotesize\textsc{[pdf]}}}
+\newcommand{\audio}[1]{\href{#1}{\footnotesize\textsc{[audio mp3]}}}
+\newcommand{\doi}[1]{\href{http://dx.doi.org/#1}{\footnotesize\textsc{[doi]}}}
+\newcommand{\smallprint}[1]{\fontspec{{Arno Pro}\fontsize{10pt}{13pt}\color{Gray}\selectfont #1}}%
+% ---- MARGIN YEARS
+\usepackage{marginnote}
+\newcommand{\years}[1]{\marginnote{\footnotesize #1}}
+\renewcommand*{\raggedrightmarginnote}{}
+\setlength{\marginparsep}{14pt}
+\reversemarginpar
+
+% QUOTING FOR DETAILS
+\usepackage[font=footnotesize,leftmargin=0em,vskip=0em]{quoting}
+
+% EURO DATE
+\makeatletter
+\def\today{\number\day\space\ifcase\month\or% revised following Flynn 2.13
+  January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or December\fi
+  \space\number\year}
+\makeatother
+
+% CUSTOM TITLES
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\normalfont}
+\titleformat*{\subsection}{\normalsize\normalfont\scshape}
+\titleformat*{\subsubsection}{\normalsize\normalfont}
+\titleformat*{\paragraph}{\normalsize\normalfont}
+\titleformat*{\subparagraph}{\normalsize\normalfont}
+\renewcommand{\descriptionlabel}[1]{\hspace{\labelsep}\textsf{#1}}
+
+% PDF SETUP
+\usepackage[bookmarks, colorlinks, breaklinks,
+	pdftitle={Daniel R. Driver - curriculum vitae},
+	pdfauthor={Daniel R. Driver},
+]{hyperref}
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue}
+
+% DOCUMENT
+\begin{document}
+{\Huge Daniel R. Driver}\\[3em]
+%
+Atlantic School of Theology\\
+660 Francklyn Street\\
+Halifax, Nova Scotia\\
+\textsc{b3h 3b5} • Canada\\[1em]
+
+%
+Office: 106; Phone: 902-425-7051\\
+Email: \href{mailto:ddriver@astheology.ns.ca}{ddriver@astheology.ns.ca}\\[1em]
+%
+Born: December 1979 in Portland, Oregon\\
+Nationality: American\\
+Landed Immigrant Status in Canada: Pending
+\vfill
+
+% ----------------------------------------------------------------------
+\section*{Academic positions}
+% ----------------------------------------------------------------------
+\years{2016---} \emph{Associate Professor} of Hebrew Bible/Old Testament, Atlantic School of Theology
+
+\years{2015--2016} \emph{Associate Professor} of Old Testament, Tyndale University College
+
+\years{2008--2015} \emph{Assistant Professor} of Old Testament, Tyndale University College
+	\begin{quoting}
+	Here I taught a regular survey of the Old Testament,
+	four semesters of biblical Hebrew, and
+	upper-division courses on:
+	the Pentateuch,
+	Genesis,
+	Creation,
+	the Decalogue,
+	Leviticus,
+	the Book of the Twelve,
+	Psalms,
+	Ecclesiastes,
+	Canon and the Rule of Faith,
+	the Historical Geography of Israel,
+	the Old Testament as Christian Scripture,
+	the Fate of the Dead,
+	and Forgiveness.
+	\end{quoting}
+
+\years{2011--2013}
+\emph{Associate Dean} of the University College, Tyndale University College and Seminary
+	\begin{quoting}
+	In this role I conducted a self-study of Tyndale for the Ontario MTCU (Ministry of Training, Colleges and Universities).
+	\end{quoting}
+
+% ----------------------------------------------------------------------
+%\section*{Areas of specialized interest}
+% ----------------------------------------------------------------------
+%--- Late 20\textsuperscript{th} century Old Testament and Biblical Theology\\
+%--- Canonical approaches to Christian scripture\\
+%--- Biblical reception history (\emph{Wirkungsgeschichte})\\
+%--- Genesis, and biblical worlds for time\\
+%--- The Psalms\\
+%--- Death and dying in the Hebrew Bible/Old Testament
+
+% ----------------------------------------------------------------------
+\section*{Education}
+% ----------------------------------------------------------------------
+
+\years{2005--2008}
+\textsc{PhD} in Divinity, University of St Andrews, Scotland
+	\begin{quoting}
+	Title: ``Brevard Childs: The Logic of Scripture's Textual Authority in the Mystery of Christ.'' \pdf{http://hdl.handle.net/10023/754}\\
+	Examination: 3 October 2008, by Dr Grant Macaskill (internal) and Prof Walter Moberly (external). Typographical revisions.
+	\end{quoting}
+
+\years{2004--2005}
+\textsc{MPhil} coursework, University of St Andrews, Scotland (upgraded to \textsc{PhD} track after one year)
+	\begin{quoting}
+	Coursework completed with Honours. Modules: Advanced Biblical Exegesis, Great Theological Texts, The Dead Sea Scrolls.
+	\end{quoting}
+
+\years{1998--2002}
+\textsc{BA} in English Literature, Wheaton College, Illinois (\emph{magna cum laude})
+
+% ----------------------------------------------------------------------
+\section*{Awards}
+% ----------------------------------------------------------------------
+
+\years{2007}
+Fondation Catholique Ecossaise Scholarship for a term at L'Institut Catholique de Paris
+
+%\years{2002}
+%Honorable Mentions in the J. G. Jameson Critical Essay Contest and the Lowell Grabill Poetry Contest
+
+% ----------------------------------------------------------------------
+\section*{Publications \amper{} papers}
+% ----------------------------------------------------------------------
+
+\subsection*{books}
+% ----------------------------------------------------------------------
+
+\years{2010, 2012}
+\emph{Brevard Childs, Biblical Theologian: For the Church’s One Bible}.
+Forschungen zum Alten Testament II/46. Tübingen: Mohr Siebeck, 2010. A
+thorough rewriting of my doctoral thesis, this monograph makes my study
+of Childs more comprehensive and more readable as a book. The first
+edition was then corrected and expanded for a North American edition
+(Grand Rapids: Baker Academic, 2012). 150,000 words.
+\html{http://danieldriver.com/bsc/}
+
+\subsection*{edited books}
+% ----------------------------------------------------------------------
+
+\years{2009}
+\emph{The Epistle to the Hebrews and Christian Theology}. Edited with
+Richard Bauckham, Trevor Hart and Nathan MacDonald. Grand Rapids:
+Eerdmans, 2009. 140,000 words.
+
+\years{2008}
+\emph{A Cloud of Witnesses: The Theology of Hebrews in Its Ancient
+Contexts}. Edited with Richard Bauckham, Trevor Hart and Nathan
+MacDonald. Library of New Testament Studies (JSNTS) 387. London: T\&T
+Clark, 2008. 100,000 words.
+
+\subsection*{articles \amper{} translations}
+% ----------------------------------------------------------------------
+
+\years{2015}
+``Forgiveness.'' Pages 371--377 in \emph{The Oxford Encyclopedia of the
+Bible and Theology}. Edited by Samuel E. Balentine et al. Oxford: Oxford
+University Press, 2015. 4,000 words.
+
+\years{2013}
+``Childs and the Canon or Rule of Faith.'' Pages 243--278 in \emph{The
+Bible as Christian Scripture: The Work of Brevard S. Childs}. Edited by
+Christopher Seitz and Kent Richards. Atlanta: SBL, 2013. 14,000 words.
+\pdf{http://danieldriver.com/img/pdf/publications/Driver_2013.pdf}
+
+\years{2013}
+Translation of Bernd Janowski, ``The Contrastive Unity of Scripture: On
+the Hermeneutics of the Biblical Canon.'' Pages 37--62 in \emph{The
+Bible as Christian Scripture: The Work of Brevard S. Childs}. Edited by
+Christopher Seitz and Kent Richards. Atlanta: SBL, 2013. 10,000 words.
+
+\years{2012}
+With Nathan MacDonald. ``Canonical Criticism HB/OT.'' In volume 4 of
+\emph{The Encyclopedia of the Bible and its Reception}. Edited by
+Hermann Spieckermann et al. 30 vols. Berlin/New York: Walter de Gruyter,
+2012.
+
+\years{2012}
+With Nathan MacDonald. ``Childs, Brevard S.'' In volume 4 of \emph{The
+Encyclopedia of the Bible and its Reception}. Edited by Hermann
+Spieckermann et al. 30 vols. Berlin/New York: Walter de Gruyter, 2012.
+
+\years{2008}
+``Later Childs.'' \emph{Princeton Theological Review} 38 (Spring 2008):
+117--129.
+\pdf{http://www.princetontheologicalreview.org/issues_pdf/38.pdf}
+
+\subsection*{select reviews}
+% ----------------------------------------------------------------------
+
+\years{2015} Review of Charles E. Shepherds, \emph{Theological
+Interpretation and Isaiah 53: A Critical Comparison of Bernhard Duhm,
+Brevard Childs, and Alec Motyer}.
+\emph{Journal of Theological Studies} 66/2 (2015): 722--724.
+\doi{10.1093/jts/flv103}
+
+\years{2012} Review of Denis Minns, \emph{Irenaeus: An Introduction}.
+\emph{Toronto Journal of Theology} 28/2 (2012): 322--323.
+\doi{10.1353/tjt.2012.0054}
+
+\years{2011}
+Review of Michael Legaspi, \emph{The Death of Scripture and the Rise of
+Biblical Studies} (Oxford Studies in Historical Theology).
+\emph{Lente.net: Bulletin of Scripture and Theology} (2008).
+\html{http://www.lente.net/2013/11/legaspi/}
+
+\years{2008}
+Review of Georg Steins and Egbert Ballhorn, eds., \emph{Der Bibelkanon
+in der Bibelauslegung: Beispielexegesen und Methodenreflexionen}.
+\emph{Review of Biblical Literature} [bookreviews.org] (2008).
+\pdf{http://bookreviews.org/pdf/6401_6893.pdf}
+
+\subsection*{select papers \amper{} presentations}
+% ----------------------------------------------------------------------
+
+\years{Jan 2016}
+``What's Wrong with Steinmetz’s `Superiority of Pre-Critical
+Exegesis.'\,'' Paper presented at the Annual Faculty and Student Forum,
+Tyndale University College \& Seminary. Toronto, 13 January 2016.
+
+\years{May 2014}
+``Of Time and Ecclesiastes." Paper presented at the Wycliffe Centre for
+Scripture and Theology, Wycliffe College, University of Toronto. Toronto, 9 May 2014.
+
+\years{July 2013}
+``From Lord God to Father God, but Why Not Christ the Lord?" Invited
+paper for a review panel on R.~Feldmeier and H. Spieckermann's \emph{Der
+Gott der Lebendigen / God of the Living}, with responses by the authors,
+presented at International SBL 2013. St. Andrews, 10 July 2013.
+
+\years{Nov 2011}
+``Psalm 2 in Antiochene Exegesis: On the Difficulty of Identifying
+Nations and Peoples." Paper presented at SBL 2011. San Francisco, 17
+November 2011.
+\audio{http://www.tyndale.ca/sites/default/files/2012-02-04_Symposium_Daniel_Driver.mp3}
+
+\years{May 2011}
+``Assessing the Brazos Theological Commentary Series: R.\,R. Reno's
+Genesis Commentary." Paper presented at the Wycliffe Centre for
+Scripture and Theology. Toronto, 13 May 2011.
+
+\years{Sept 2010}
+``In your light do we see light,'' ``The unfolding of your words gives
+light,'' and ``I said, `I will be wise,' but it was far from me.'' Three
+papers presented to the divinity faculty of Wycliffe College, University
+of Toronto. Toronto, 2 September 2010.
+
+\years{Aug 2009}
+``Canon as \emph{Regula Fidei}: On B. Childs' Renewal of Canon along
+Dogmatic Lines.'' Paper presented at EABS 2009. Lincoln, England, 28
+August 2009.
+
+\years{July 2009}
+``Reckoning Time in Ussher and Bede: The End and Beginning of Biblical
+Chronology in the British Isles.'' Paper presented at a conference on
+Genesis and Christian Theology. St Andrews, 15 July 2009.
+
+\years{Nov 2007}
+``For a Generation to Come: The Scope of Psalm 102 in Reception and
+Recent Research.'' Paper presented at SBL 2007. San Diego, 17 November
+2007.
+
+%\years{Oct 2007}
+%``Brevard Childs and His Followers.'' Paper presented at the Scripture
+%\& Theology Seminar, St Mary’s College. St Andrews, 24 October 2007.
+
+%\years{Mar 2007}
+%``Response to Ross Wagner, `Greek Isaiah and the Septuagint as Christian
+%Scripture.'\,'' Response presented at the Joint Biblical/Systematic
+%Theology Seminar, St Mary’s College. St Andrews, 14 March 2007.
+
+%\years{Dec 2006}
+%``Midrash, \emph{Kanonbewußtsein}, and the `Mystery of Israel.'\,''
+%Paper presented at the Scripture \& Theology Seminar, St Mary’s College.
+%St Andrews, 6 December 2006.
+
+%\subsection*{in preparation}
+% ----------------------------------------------------------------------
+%
+%\years{Oct 2011}
+%Review of  David Burrell, Carlo Cogliati, Janet Soskice and William R.
+%Stoeger, eds., \emph{Creation and the God of Abraham}. \emph{Review of
+%Biblical Literature} [bookreviews.org] (2011).
+
+% ----------------------------------------------------------------------
+\section*{Teaching experience}
+% ----------------------------------------------------------------------
+
+%\subsection*{positions held}
+% ----------------------------------------------------------------------
+
+\years{2008--2016}
+\emph{Biblical Studies \& Theology}: Only full-time instructor in Old Testament, Tyndale University College
+%	\begin{quoting}
+%	TK
+%	\end{quoting}
+
+\years{2005}
+\emph{Tutor} for Nathan MacDonald, The History and Religion of Ancient Israel, University of St Andrews
+%	\begin{quoting}
+%	Taught undergraduates in an introductory module, facilitating
+%	seminar-style discussions and marking their essays.
+%	\end{quoting}
+
+\years{2002--2004}
+\emph{Rhetoric School Teacher}, Cair Paravel-Latin School, Kansas
+	\begin{quoting}
+	Taught 9th--12th grade students in Classics of Western Literature,
+	Creative Writing, US History, Political \& Moral Philosophy.
+	\end{quoting}
+
+\years{2001--2002}
+\emph{Student Director}, Writing Center, Wheaton College, Illinois
+	\begin{quoting}
+	Tutored university students across the disciplines and managed
+	a staff of twelve writing consultants.
+	\end{quoting}
+
+\years{2001--2002}
+\emph{Teaching Assistant} to Jeffry Davis, English Literature, Wheaton College, Illinois
+%	\begin{quoting}
+%	Marked writing assignments, proofed a book manuscript, and
+%	occasionally taught courses or chaired seminars in the professor’s
+%	absence.
+%	\end{quoting}
+
+%\years{2001}
+%\emph{English Language Counselor}, English Language Institute of China, Guiyang, Guizhou
+%	\begin{quoting}
+%	Instructed fifteen middle school students in conversational English.
+%	\end{quoting}
+
+\subsection*{courses taught}
+% ----------------------------------------------------------------------
+
+\years{\textsc{bsth} 101}
+Old Testament Scripture %\html{http://danieldriver.com/}
+
+\years{\textsc{bsth} 307}
+Israel Study Tour: Historical Geography of the Bible %\html{http://danieldriver.com/notes/israel-study-tour/}
+
+\years{\textsc{bsth} 310}
+The Pentateuch
+
+\years{\textsc{bsth} 321}%\years{\textsc{rlgs} 311}
+The Ten Commandments %Text \& Interpretation: The Ten Commandments
+
+\years{\textsc{rlgs} 314}
+Text \& Interpretation: The Book of the Twelve
+
+\years{\textsc{rlgs} 321}
+Text \& Interpretation: Genesis
+
+\years{\textsc{rlgs} 326}
+Text \& Interpretation: Psalms
+
+\years{\textsc{bsth} 440}
+Topics in Biblical Theology: Creation and the Old Testament
+
+\years{\textsc{bsth} 440}
+Topics in Biblical Theology: Ecclesiastes
+
+\years{\textsc{rlgs} 445}
+Topics in Biblical Theology: The Fate of the Dead
+
+\years{\textsc{rlgs} 446}
+Topics in Biblical Theology: Canon and the Rule of Faith
+
+\years{\textsc{rlgs} 448}
+Topics in Biblical Theology: The Old Testament at Christian Scripture
+
+\years{\textsc{rlgs} 450}
+Directed Study in: Leviticus
+
+\years{\textsc{rlgs} 497, 9}
+Honours Thesis in Religious Studies I \& II
+
+\years{\textsc{hebr} 201, 2}
+Introduction to Biblical Hebrew I \& II
+
+\years{\textsc{hebr} 301, 2}
+Readings in Biblical Hebrew I \& II
+
+% ----------------------------------------------------------------------
+%\section*{Service to the profession}
+\section*{Service to church \amper{} academy}
+% ----------------------------------------------------------------------
+
+\years{2017---}
+\emph{Treasurer}, Faculty Association, Atlantic School of Theology
+
+\years{2016---}
+\emph{Faculty Representative}, Board of Governors, Atlantic School of Theology
+
+\years{2016---}
+\emph{Senate Delegate}, Honourary Degrees Committee, Atlantic School of Theology
+
+\years{2014--2016}
+\emph{Secretary-Treasurer}, Faculty Association, Tyndale University College
+
+%\years{2013--2016}
+%\emph{Faculty Representative}, Academic Standards Committee, Tyndale University College
+
+%\years{2012---}
+%\emph{Designer and Co-editor} of the open-access \emph{Lente.net: Bulletin of Scripture \& Theology}
+%\html{http://www.lente.net}
+
+\years{2011--2016}
+\emph{Co-coordinator}, Wycliffe Centre for Scripture and Theology, University of Toronto
+%\html{http://www.lente.net/category/wcst-news/}
+
+\years{2011--2013}
+\emph{Associate Dean}, Tyndale University College, Tyndale UC \& Seminary
+
+%\years{2010--2014}
+%\emph{Faculty Representative}, Campus Transitions Committee, Tyndale UC \& Seminary
+
+\years{2009--2016}
+\emph{Deputy Rector's Warden}, St Matthew’s Anglican Church in Riverdale, Toronto
+
+\years{2009--2013}
+\emph{Faculty Representative}, UC Academic Council, Tyndale UC \& Seminary
+
+\years{2006--2007}
+\emph{Student Facilitator}, Scripture \& Theology Research Seminar, University of St Andrews
+	\begin{quoting}
+	Assisted in a postgraduate research seminar convened by Christopher
+	Seitz and Mark Elliott.
+	\end{quoting}
+
+\years{2005--2006}
+\emph{Conference Administrator}, St Andrews Conference on Hebrews \& Christian Theology
+	\begin{quoting}
+	Administrator and webmaster for a large international conference
+	that took place in July 2006. Managed a budget of £35,000.
+	\end{quoting}
+
+% ----------------------------------------------------------------------
+\section*{Research projects under development}
+% ----------------------------------------------------------------------
+
+\years{2015--} ``The Transposition of Forgiveness.''
+A project statement is available on request.
+% A project statement for the Reid Trust, in Ontario, 1 April 2015.
+
+\years{2014--} ``Genesis in Time: Genesis \liningnums{1--11} and the Reification of Time.''
+A project statement is available on request.
+% A project statement for a Fulbright grant to research in Germany, 30 July 2014.
+
+% ----------------------------------------------------------------------
+\section*{References}
+% ----------------------------------------------------------------------
+
+Dr Nathan MacDonald --- \emph{Primary supervisor of \textsc{PhD}}\\
+Lecturer in Hebrew Bible, University of Cambridge\\
+St John's College\\
+Cambridge \textsc{cb2 1tp}, UK\\
+Phone: (+44) 01223 763046\\
+Email: \href{mailto:nm10011@cam.ac.uk}{nm10011@cam.ac.uk}\\
+
+Professor Walter Moberly --- \emph{External examiner of \textsc{PhD}}\\
+Professor of Old Testament, Durham University\\
+Department of Theology and Religion\\
+Abbey House, Palace Green\\
+Durham \textsc{dh1 3rs}, UK\\
+Phone: (+44) 1913 343953	\\
+Email: \href{mailto:r.w.l.moberly@durham.ac.uk}{r.w.l.moberly@durham.ac.uk}\\
+
+Professor Christopher Seitz --- \emph{Teacher from St Andrews, colleague in Toronto}\\
+Senior Research Professor in Old Testament, University of Toronto\\
+Wycliffe College, 5 Hoskin Ave\\
+Toronto, Ontario \textsc{m5s 1h7}\\
+%6303 Lakehurst Avenue\\
+%Dallas, TX 75230\\
+Phone: 214-471-8934\\
+Email: \href{mailto:CSeitz@wycliffe.utoronto.ca}{CSeitz@wycliffe.utoronto.ca}\\
+
+Dr Ephraim Radner --- \emph{Colleague in Toronto}\\
+Professor of Historical Theology, University of Toronto\\
+Wycliffe College, 5 Hoskin Ave\\
+Toronto, Ontario \textsc{m5s 1h7}\\
+Phone: 416-946-3533\\
+Email: \href{mailto:e.radner@wycliffe.utoronto.ca}{e.radner@wycliffe.utoronto.ca}\\
+
+Dr Benjamin Reynolds --- \emph{Colleague in Toronto, formerly my Department Chair}\\
+Associate Professor of New Testament\\
+Tyndale University College, 3377 Bayview Ave\\
+Toronto, Ontario \textsc{m2m 3s4}\\
+Phone: 416-226-6620 ext. 2145\\
+Email: \href{mailto:breynolds@tyndale.ca}{breynolds@tyndale.ca}\\
+
+%Dr Douglas Loney --- \emph{Retired colleague, Dean of Tyndale UC when I was Associate Dean}\\
+%Emeritus Dean of Tyndale UC, Professor of English Literature\\
+%8 Jordan Lane, Barry's Bay, Ontario \textsc{k0j 1b0}\\
+%Phone: 613-756-6117\\
+%Email: \href{mailto:j.douglasloney@gmail.com}{j.douglasloney@gmail.com}\\
+
+%Dr Marion Taylor --- \emph{external examiner on my tenure committee}\\
+%Professor of Old Testament, University of Toronto\\
+%Wycliffe College, 5 Hoskin Ave\\
+%Toronto, Ontario \textsc{m5s 1h7}\\
+%Phone: 416-946-3542\\
+%Email: \href{mailto:m.taylor@utoronto.ca}{m.taylor@utoronto.ca}\\
+
+%Rev. Ajit John --- \emph{Lawyer and bi-vocational priest in charge at my parish church, St. Matthew's Riverdale}\\
+%The Law Society of Upper Canada\\
+%Osgoode Hall, 130 Queen Street West\\
+%Toronto, Ontario \textsc{m5h 2n6}\\
+%Phone: 416-947-3922\\
+%Email: \href{mailto:ajohn@lsuc.on.ca}{ajohn@lsuc.on.ca}\\
+
+%The Rt. Rev. Mark MacDonald --- \emph{National Indigenous Anglican Bishop}\\
+%The Anglican Church of Canada\\
+%80 Hayden St.\\
+%Toronto, Ontario \textsc{m4y 3g2}\\
+%Phone: 416-268-7371\\
+%Email: \href{mailto:mmacdonald@national.anglican.ca}{mmacdonald@national.anglican.ca}\\
+
+%The Rev. Canon George Sumner --- \emph{Principal of Wycliffe College, Bishop-elect of the Dioceses of Dallas}\\
+%Principal and Helliwell Professor of World Mission\\
+%Wycliffe College, 5 Hoskin Ave\\
+%Toronto, Ontario \textsc{m5s 1h7}\\
+%Phone: 416-946-3521\\
+%Email: \href{mailto:george.sumner@wycliffe.utoronto.ca}{george.sumner@wycliffe.utoronto.ca}\\
+
+
+% INLINE FORMAT FOR REFERENCES
+
+%\parbox{.3\textwidth}{\raggedright
+%  Walter Moberly, Professor of Old Testament, Durham\\
+%  \href{mailto:r.w.l.moberly@durham.ac.uk}{r.w.l.moberly@durham.ac.uk}}
+%\hfill
+%\parbox{.3\textwidth}{\raggedright
+%  Christopher Seitz, Senior Research Professor, Toronto\\
+%  \href{mailto:CSeitz@wycliffe.utoronto.ca}{CSeitz@wycliffe.utoronto.ca}}
+%\hfill
+%\parbox{.3\textwidth}{\centering
+%  Nathan MacDonald, Lecturer in Hebrew Bible, Cambridge\\
+%  \href{mailto:nm10011@cam.ac.uk}{nm10011@cam.ac.uk}}
+%\hfill
+%\parbox{.3\textwidth}{\raggedleft
+%  Ephraim Radner, Professor of Historical Theology, Toronto\\
+%  \href{mailto:e.radner@wycliffe.utoronto.ca}{e.radner@wycliffe.utoronto.ca}}
+
+% \vspace{1em}
+\vfill{}
+\hrulefill
+
+\begin{center}
+\footnotesize  Updated: \today\\
+%\href{http://danieldriver.com/about/}{danieldriver.com/about}
+\end{center}
+
+\end{document}
