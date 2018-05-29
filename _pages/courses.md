@@ -16,46 +16,21 @@ permalink: /courses/
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2017): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Fall 2018): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (Winter 2018): tk.</p>
+        <p><em>Beginning Biblical Hebrew I</em> (Fall 2018): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): tk.</p>
-      </div>
-    </div>
-
-  </div><!-- grid -->
-
-  <div class="grid no-gutters">
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
-        <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-3114/">HB 3114</a></h4>
-        <p><em>The Twelve Prophets</em> (Winter 2018): An overview of twelve Hebrew prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of The Book of the Twelve.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-3115">HB 3115</a></h4>
-        <p><em>Exodus and the Life of Moses</em> (Summer 2018): tk.</p>
+        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
       </div>
     </div>
 
@@ -79,8 +54,51 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
+        <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
+        <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
+      </div>
+    </div>
+
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-3114/">HB 3114</a></h4>
+        <p><em>The Twelve Prophets</em> (Winter 2018): An overview of twelve Hebrew prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of The Book of the Twelve.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-3115">HB 3115</a></h4>
+        <p><em>Exodus and the Life of Moses</em> (Summer 2018): A look at the Moses story in the Book of Exodus, this course also locates the figure of Moses in contemporary Jewish and Christian understanding.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-3116/">HB 3116</a></h4>
+        <p><em>Ecclesiastes</em> (Winter 2019): A close reading of Ecclesiastes, also known as Qoheleth, in the context of the Writings, and in connection with the book’s extraordinarily rich history of interpretation.</p>
+      </div>
+    </div>
+
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
+
+    <div class="unit one-third">
+      <div class="course">
         <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
         <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="sthb-3101/">ST/HB 3101</a></h4>
+        <p><em>The Eucharist in Ecumenical Perspective</em> (Winter 2019): Co-taught by Anglican and Roman Catholic faculty members, this is a biblical and theological look at the Eucharist in an ecumenical setting.</p>
       </div>
     </div>
 
