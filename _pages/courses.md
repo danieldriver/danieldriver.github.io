@@ -22,6 +22,24 @@ permalink: /courses/
 
     <div class="unit one-third">
       <div class="course">
+        <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
+        <p><em>Beginning Biblical Hebrew I</em> (Winter 2018): tk.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
+        <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
+        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): tk.</p>
+      </div>
+    </div>
+
+  </div><!-- grid -->
+
+  <div class="grid no-gutters">
+
+    <div class="unit one-third">
+      <div class="course">
         <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
         <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
       </div>
@@ -34,28 +52,10 @@ permalink: /courses/
       </div>
     </div>
 
-  </div><!-- grid -->
-
-  <div class="grid no-gutters">
-
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3115">HB 3115</a></h4>
         <p><em>Exodus and the Life of Moses</em> (Summer 2018): tk.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (Winter 2018): tk.</p>
-      </div>
-    </div>
-
-    <div class="unit one-third">
-      <div class="course">
-        <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): tk.</p>
       </div>
     </div>
 
