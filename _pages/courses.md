@@ -2,13 +2,19 @@
 layout: page
 title: Courses
 subtitle: Course Offerings &amp; Resources
-desc: Current and recent courses offered at the Atlantic School of Theology.
+desc: Current courses offered in rotation at the Atlantic School of Theology.
 permalink: /courses/
 ---
 
-{::nomarkdown}
-<p>I teach the following courses at the <a href="http://www.astheology.ns.ca/">Atlantic School of Theology</a>. In addition to covering the basics for graduate-level survey and language requirements, I try to offer a representative rotation of courses from the three parts of Tanakh by covering selections from the Law, the Prophets, and the Writings.</p>
+I teach a variety of courses at the [Atlantic School of Theology](http://www.astheology.ns.ca/).
+In addition to covering the basics for graduate-level survey and
+language requirements, I try to offer a representative rotation of
+courses from the three parts of Tanakh by covering selections from the
+Law, the Prophets, and the Writings.
 
+## Courses at AST
+
+{::nomarkdown}
 <div class="courses">
 
   <div class="grid no-gutters">
@@ -106,6 +112,14 @@ permalink: /courses/
 
 </div>
 {:/}
+
+## Student Resources
+
+See my [resources page]({{ site.baseurl }}/resources/) for advice for
+students at AST, including guidance on course selection in the MDiv
+Program (Anglican Church of Canada stream), and general help on research
+and writing in biblical studies and theology (with an emphasis on Hebrew
+Bible/Old Testament).
 
 ---
 
