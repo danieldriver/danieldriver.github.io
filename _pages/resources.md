@@ -14,13 +14,11 @@ This page is a work in progress. Check back soon for updates, or pester me if th
 
 ## Guides for Writing and Style
 
-
-
-- *The SBL Handbook of Style*, 2nd Edition, is the definitive style manual for biblical studies and related disciplines. Details may be found in:
-	* [A book from SBL Press](https://www.sbl-site.org/publications/SBLHandbookofStyle.aspx)
-	* [A blog at sblhs2.com](https://sblhs2.com))
-	* A free [Student Supplement (PDF)](https://www.sbl-site.org/assets/pdfs/pubs/SBLHSsupp2015-02.pdf), which covers the issues most common to term papers.
-- SBLHS 2 is designed to supplement *The Chicago Manual of Style*. For general questions of style see the [CMS Online](https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fwww.chicagomanualofstyle.org%2F16%2Fcontents.html), which includes a handy [Citation Guide](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
+- In addition to [the syllabus](/courses/), students in my courses should refer to my [Guidelines for Papers (PDF)](/assets/pdf/handouts/Guidelines_for_Papers.pdf), a handout I created to give guidance about the types of writing assignments I tend to give. The file includes a copy of the rubric I use for paper analysis and assessment.
+- *The SBL Handbook of Style*, 2nd Edition, is the definitive style manual for biblical studies and related disciplines. Details on correct citation may be found in:
+	* A [book from SBL Press](https://www.sbl-site.org/publications/SBLHandbookofStyle.aspx) and a [blog at sblhs2.com](https://sblhs2.com).
+	* The free [Student Supplement (PDF)](https://www.sbl-site.org/assets/pdfs/pubs/SBLHSsupp2015-02.pdf), which covers most of what you need to know to write a term paper.
+	* *The Chicago Manual of Style*, which SBLHS2 is designed to supplement. Consult the [CMS Online](https://login.proxy1.athensams.net/login?qurl=http%3A%2F%2Fwww.chicagomanualofstyle.org%2F16%2Fcontents.html) and its handy [Citation Guide](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
 
 
 ## AST Library Resources
