@@ -9,6 +9,6 @@ Making Sense
 
 SBLHS2
 : *The SBL Handbook of Style*, 2nd Edition, is the definitive style manual for biblical studies and related disciplines.
-: A [blog (sblhs2.com)](https://sblhs2.com) and free [Student Supplement (PDF)](https://www.sbl-site.org/assets/pdfs/pubs/SBLHSsupp2015-02.pdf) should cover the issues most common to term papers.
+: A [blog (sblhs2.com)](https://sblhs2.com) and free [Student Supplement (PDF)](https://www.sbl-site.org/assets/pdfs/pubs/SBLHSsupp2015-02.pdf) should cover the issues most common to term papers. The AST library copy is in the reference section at PN 147 S26 2014.
 : Serious students of biblical studies will want a copy of their own. Order one from [SBL Press](https://www.sbl-site.org/publications/SBLHandbookofStyle.aspx) or elsewhere in [Canada](https://amzn.to/2RXeAYH) or the [USA](https://amzn.to/2DherLs). ISBN 978-1589839649.
 : See my [resources page]({{ site.baseurl }}/resources/) for further advice on writing, style, and research.
