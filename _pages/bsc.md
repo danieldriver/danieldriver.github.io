@@ -30,10 +30,10 @@ This work advanced through several stages, reflected in four recensions.
 > systematicians (Barth, Frei ...) through much of the last century.
 > Life is always easier when one collapses complex tensions one way or
 > the other. Childs resisted such a path, and Driver calls us to stay
-> with his work long enough to feel the force of the ten- sions for
+> with his work long enough to feel the force of the tensions for
 > ourselves. One thus finishes the book eager for the sequel: where next
 > for the biblical theologian?
-> ---<cite>Richard S. Briggs, *Ecclesiology*</cite>
+> ---<cite>Richard S. Briggs, *Ecclesiology* 9.1 (2013): 122–125</cite>
 <!-- Briggs, Richard S. Source: Ecclesiology, 9 no 1 2013, p 122-125. -->
 
 > Driver offers rich and suggestive probes of the way in which Childs
@@ -44,7 +44,7 @@ This work advanced through several stages, reflected in four recensions.
 > the “mystery of Israel.” Driver’s judgments are sound, his learning is
 > impressive, and his attentiveness to nuance in Childs’ work is
 > reassuring.
-> ---<cite>Walter Brueggemann, *Interpretation*</cite>
+> ---<cite>Walter Brueggemann, *Interpretation* 67.1 (2013): 79</cite>
 <!-- Brueggemann, Walter. Source: Interpretation, 67 no 1 Jan 2013, p 79. -->
 
 > Driver has done a remarkable amount of research, examining Childs's
@@ -54,7 +54,7 @@ This work advanced through several stages, reflected in four recensions.
 > the various elements of Childs's work and a good deal of continuity
 > throughout Childs's career, hopefully ensuring that future work will
 > evaluate Childs on his own terms rather than in caricature.
-> ---<cite>Nathan Chambers, *Bulletin for Biblical Research*</cite>
+> ---<cite>Nathan Chambers, *Bulletin for Biblical Research* 23.2 (2013): 261–263</cite>
 <!-- Chambers, Nathan J. Source: Bulletin for Biblical Research, 23 no 2 2013, p 261-263. -->
 
 > This detailed critique by D explores the historical course of the
@@ -68,14 +68,14 @@ This work advanced through several stages, reflected in four recensions.
 > major questions about the use and interpretation of Protestantism's
 > iconic book. It will certainly remain an essential work of reference
 > for a while to come.
-> ---<cite>Ronald E. Clements, *Journal for the Study of the Old Testament*</cite>
+> ---<cite>Ronald E. Clements, *Journal for the Study of the Old Testament* 35.5 (2011): 17</cite>
 <!-- Clements, Ronald E. Source: Journal for the Study of the Old Testament, 35 no 5 Jun 2011, p 17. -->
 
 > This brief overview of Driver’s book cannot begin to do full justice
 > to the richness of its subject matter. For this reason I strongly
 > recommended that readers interested in these topics pursue the book
 > for themselves.
-> ---<cite>Don Collett, *International Journal of Systematic Theology*</cite>
+> ---<cite>Don Collett, *International Journal of Systematic Theology* 16.4 (2014) 470–473</cite>
 <!-- Collett, Don. Source: Pro Ecclesia, 23 no 1 Wint 2014, p 99-112. // Collett, Don. Source: International Journal of Systematic Theology, 16 no 4 Oct 2014, p 470-473. -->
 
 > Sammantaget är Brevard Childs, Biblical Theologian en lärorik bok och
@@ -84,7 +84,7 @@ This work advanced through several stages, reflected in four recensions.
 > under närmare femtio år, utan i hur en forskare genom konsttuktivt
 > nytänkande och ifiägasättande av hävdvunna åsikter försöker finna nya
 > vägar att bearbeta gamla frägor.
-> ---<cite>LarsOlov Eriksson, *Svensk exegetisk årsbok*</cite>
+> ---<cite>LarsOlov Eriksson, *Svensk exegetisk årsbok* 78 (2013):212–214</cite>
 <!-- Eriksson, LarsOlov. Source: Svensk exegetisk årsbok, 78 2013, p 212-214. -->
 
 > In sum, this book gives a very detailed and extensive presentation of
@@ -106,7 +106,7 @@ This work advanced through several stages, reflected in four recensions.
 > exegetes and theologians as an inspiration and encouragement to
 > consciously differentiate and actively represent their Christian
 > theological positions.
-> ---<cite>Aaron Schart, *Theologische Literaturzeitung*</cite>
+> ---<cite>Aaron Schart, *Theologische Literaturzeitung* 137.1 (2012): 36–38</cite>
 <!-- Schart, Aaron. Source: Theologische Literaturzeitung, 137 no 1 Jan 2012, p 36-38. -->
 
 > This is an ambitious, multifaceted, and demanding study—much like
@@ -115,7 +115,7 @@ This work advanced through several stages, reflected in four recensions.
 > confessional realities are in Driver's debt for the most thorough
 > breakdown to date of Childs's remarkable achievement in historical,
 > exegetical, theological, and spiritual reading of Scripture.
-> ---<cite>Robert W. Yarbrough, *Bulletin for Biblical Research*</cite>
+> ---<cite>Robert W. Yarbrough, *Bulletin for Biblical Research* 23.3 (2013): 450–451</cite>
 <!-- Yarbrough, Robert W. Source: Bulletin for Biblical Research, 23 no 3 2013, p 450-451. -->
 
 <!-- Bultmann, Christoph. Source: Zeitschrift für die alttestamentliche Wissenschaft, 123 no 2 2011, p 297-298. -->
