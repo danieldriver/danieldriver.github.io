@@ -37,7 +37,7 @@ This work advanced through several stages, reflected in four recensions.
 <!-- Briggs, Richard S. Source: Ecclesiology, 9 no 1 2013, p 122-125. -->
 
 > Driver offers rich and suggestive probes of the way in which Childs
-> continued to think about midrash as a category for the text of toe New
+> continued to think about midrash as a category for the text of the New
 > Testament, engaged Jewish theological traditions (reflected especially
 > in his Exodus commentary), urged the possibility of serious
 > Jewish-Christian dialogue, and eventually voiced his understanding of
@@ -75,7 +75,7 @@ This work advanced through several stages, reflected in four recensions.
 > to the richness of its subject matter. For this reason I strongly
 > recommended that readers interested in these topics pursue the book
 > for themselves.
-> ---<cite>Don Collett, *International Journal of Systematic Theology* 16.4 (2014) 470–473</cite>
+> ---<cite>Don Collett, *International Journal of Systematic Theology* 16.4 (2014): 470–473</cite>
 <!-- Collett, Don. Source: Pro Ecclesia, 23 no 1 Wint 2014, p 99-112. // Collett, Don. Source: International Journal of Systematic Theology, 16 no 4 Oct 2014, p 470-473. -->
 
 > Sammantaget är Brevard Childs, Biblical Theologian en lärorik bok och
@@ -84,7 +84,7 @@ This work advanced through several stages, reflected in four recensions.
 > under närmare femtio år, utan i hur en forskare genom konsttuktivt
 > nytänkande och ifiägasättande av hävdvunna åsikter försöker finna nya
 > vägar att bearbeta gamla frägor.
-> ---<cite>LarsOlov Eriksson, *Svensk exegetisk årsbok* 78 (2013):212–214</cite>
+> ---<cite>LarsOlov Eriksson, *Svensk exegetisk årsbok* 78 (2013): 212–214</cite>
 <!-- Eriksson, LarsOlov. Source: Svensk exegetisk årsbok, 78 2013, p 212-214. -->
 
 > In sum, this book gives a very detailed and extensive presentation of
