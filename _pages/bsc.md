@@ -106,7 +106,7 @@ This work advanced through several stages, reflected in four recensions.
 > exegetes and theologians as an inspiration and encouragement to
 > consciously differentiate and actively represent their Christian
 > theological positions.
-> ---<cite>Aaron Schart, *Theologische Literaturzeitung* 137.1 (2012): 36–38</cite>
+> ---<cite>Aaron Schart, [*Theologische Literaturzeitung* 137.1 (2012): 36–38](http://www.thlz.com/artikel/14878/)</cite>
 <!-- Schart, Aaron. Source: Theologische Literaturzeitung, 137 no 1 Jan 2012, p 36-38. -->
 
 > This is an ambitious, multifaceted, and demanding study—much like
