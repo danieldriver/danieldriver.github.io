@@ -78,12 +78,12 @@ This work advanced through several stages, reflected in four recensions.
 > ---<cite>Don Collett, *International Journal of Systematic Theology* 16.4 (2014): 470–473</cite>
 <!-- Collett, Don. Source: Pro Ecclesia, 23 no 1 Wint 2014, p 99-112. // Collett, Don. Source: International Journal of Systematic Theology, 16 no 4 Oct 2014, p 470-473. -->
 
-> Sammantaget är Brevard Childs, Biblical Theologian en lärorik bok och
-> rekommenderad läsning för var och en som vill få en inblick, inte bara
-> i en produktiv och ibland provokativ exegets bibelteologiska brottoing
-> under närmare femtio år, utan i hur en forskare genom konsttuktivt
-> nytänkande och ifiägasättande av hävdvunna åsikter försöker finna nya
-> vägar att bearbeta gamla frägor.
+> Sammantaget är *Brevard Childs, Biblical Theologian* en lärorik bok
+> och rekommenderad läsning för var och en som vill få en inblick, inte
+> bara i en produktiv och ibland provokativ exegets bibelteologiska
+> brottoing under närmare femtio år, utan i hur en forskare genom
+> konsttuktivt nytänkande och ifiägasättande av hävdvunna åsikter
+> försöker finna nya vägar att bearbeta gamla frägor.
 > ---<cite>LarsOlov Eriksson, *Svensk exegetisk årsbok* 78 (2013): 212–214</cite>
 <!-- Eriksson, LarsOlov. Source: Svensk exegetisk årsbok, 78 2013, p 212-214. -->
 
