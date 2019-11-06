@@ -1,7 +1,3 @@
-*&nbsp;<em>Please note that textbook selections for my courses often change with each iteration of the course.</em>
-
-## Recommended Texts (Optional)
-
 Making Sense
 : Margot Northey, Bradford A. Anderson, and Joel N. Lohr. [*Making Sense in Religious Studies: A Student’s Guide to Research and Writing*](https://amzn.to/32ifUtJ). 3rd ed. Don Mills, ON: Oxford University Press, 2019.
 : This title is optional but highly recommended. It includes basic advice on things like reading religious texts, writing essays and book reviews, making oral presentations, and learning languages. It should help you master fundamental tasks in nearly any course in religion or theology.
@@ -13,3 +9,4 @@ SBLHS2
 : See my [resources page]({{ site.baseurl }}/resources/) for further advice on writing, style, and research.
 
 *Disclosure: Amazon affiliate links help offset the cost of running this website. I don't love the situation but have accepted it. If you have a better source for books, by all means use it.*
+
