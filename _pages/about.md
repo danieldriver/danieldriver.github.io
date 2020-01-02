@@ -64,7 +64,7 @@ Switzerland. Reach me at:
 
 - \<six letters of my first name>@lente.net
 
-Any message you send me from your own (free)
+Any message you send me from your own
 [ProtonMail](https://protonmail.com/) account will automatically have
 end-to-end encryption. If you use another PGP compatible service, you
 can use my [PGP public key](/assets/pgp/publickey-drd.txt).
