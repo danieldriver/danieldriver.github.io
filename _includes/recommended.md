@@ -12,4 +12,4 @@ SBLHS2
 : Serious students of biblical studies will want a copy of their own. Order one from [SBL Press](https://www.sbl-site.org/publications/SBLHandbookofStyle.aspx) or [elsewhere online](https://amzn.to/36M6fzc). ISBN 978-1589839649.
 : See my [resources page]({{ site.baseurl }}/resources/) for further advice on writing, style, and research.
 
-*Disclosure: Amazon affiliate links help offset the cost of running this website. I don't love the situation but have accepted it. If you have a better source for books, by all means use it.*
+*Disclosure: As an Amazon Associate I earn from qualifying purchases.*
