@@ -1,7 +1,12 @@
 ---
 title: Interpreting Psalms and the Psalter
-desc: Currents in Old Testament, Didaktikos 2.5 (April 2019)
+desc: "Currents in Old Testament, Didaktikos 2.5 (April 2019): 45–46."
 ---
+
+Note: This short piece appeared in the Currents in Old Testament column
+of [*Didaktikos*](https://didaktikosjournal.com) 2.5 (April 2019): 45–46.
+[View or print it as a PDF.](/assets/pdf/publications/Driver_2019a.pdf)
+It is reproduced and archived here with permission.
 
 When I teach the psalms, I want students to encounter two major currents
 in psalms research: the historical profile of individual psalms in
@@ -87,11 +92,6 @@ already long been known. While contact between the two areas can be
 thin, it is enough to compel study of the Psalter as a book with
 overlapping literary- and reception-historical contours. Ultimately, to
 ignore either view is to refuse binocular vision.
-
-Note: This short piece appeared in the Currents in Old Testament column
-of [*Didaktikos*](https://didaktikosjournal.com) 2.5 (April 2019): 45–46.
-[View or print it as a PDF.](/assets/pdf/publications/Driver_2019a.pdf)
-It is reproduced and archived here with permission.
 
 [^fn1]: Frank-Lothar Hossfeld and Erich Zenger, *Psalms 2: A Commentary on Psalms 51–100 and Psalms 3: A Commentary on Psalms 101–150*, Hermeneia (Minneapolis: Fortress, 2005, 2011).
 
