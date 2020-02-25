@@ -5,7 +5,7 @@ desc: "Currents in Old Testament, Didaktikos 2.5 (April 2019): 45–46."
 
 Note: This short piece appeared in the Currents in Old Testament column
 of [*Didaktikos*](https://didaktikosjournal.com) 2.5 (April 2019): 45–46.
-[View or print it as a PDF.](/assets/pdf/publications/Driver_2019a.pdf)
+Read on, or [view it as a PDF.](/assets/pdf/publications/Driver_2019a.pdf)
 It is reproduced and archived here with permission.
 
 When I teach the psalms, I want students to encounter two major currents
@@ -60,6 +60,7 @@ theories of interpretation. Sometimes the gap is ideological, but mostly
 it stems from the limits of individual human interest and disciplinary
 competence. As Rolf Jacobson observed in 2014, after outlining prospects
 for work in Set A,
+
 > It is time to integrate and test what we know about how the
 > communities were actually reading the psalms with theories about what
 > the final form “means.” Are there any congruencies or incongruences
@@ -69,6 +70,7 @@ for work in Set A,
 > readers who were approaching the Psalter as a “book” and interpreting
 > in the psalms with anything like what we call “plot” or
 > “characterization”?[^fn4]
+
 Jacobson’s timing was poor, since by 2013 Gillingham had already
 produced a substantial answer to that line of questions, demonstrating
 how reception history offers an important and neglected control for the
