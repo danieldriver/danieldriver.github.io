@@ -29,7 +29,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (Fall 2018): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
+        <p><em>Beginning Biblical Hebrew I</em> (Summer 2020): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
       </div>
     </div>
 
