@@ -98,7 +98,7 @@ camaraderie of a joyful learning community has hardly ever felt so
 vital.
 
 
-[^fn1]: The publisher promises [additional resources](http://www.learningbiblicalhebrew.com/) for “self-learners,” thought the relevant pages are still under development.
+[^fn1]: The publisher promises [additional resources](http://www.learningbiblicalhebrew.com/) for “self-learners,” though the relevant pages are still under development.
 [^fn2]: All credit to [Debbie Friedman](https://youtu.be/22KiI5xvxfA). Note that our version has minor differences in order and pronunciation. We are using modern Hebrew pronunciation in case anybody goes on to study it, but otherwise hewing close to the traditional ([Tiberian](https://en.wikipedia.org/wiki/Tiberian_Hebrew)) Hebrew that is our focus.
 
 [Ides]: https://twitter.com/danieldriver/status/1239346796910043136
