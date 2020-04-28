@@ -1,6 +1,6 @@
 ---
-title: Start Learning Hebrew at Home
-desc: Everything you need to start learning biblical Hebrew at home.
+title: "Learning Hebrew at Home: An Invitation"
+desc: Everything you need to start learning biblical Hebrew in quarantine.
 ---
 
 My family and I started sheltering in place on the [Ides of
@@ -52,9 +52,9 @@ here to tell you that you can start learning Hebrew from home, starting
 today if you want. Seriously. If you have a little spare time and
 energy, the conditions might be close to ideal.
 
-Interested? Here's how to start.
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/808280713&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-331352199" title="D. R. Driver" target="_blank" style="color: #cccccc; text-decoration: none;">D. R. Driver</a> · <a href="https://soundcloud.com/user-331352199/start-learning-hebrew" title="SIP 01: Start Learning Hebrew" target="_blank" style="color: #cccccc; text-decoration: none;">SIP 01: Start Learning Hebrew</a></div>
+
+Interested? Here's how to start.
 
 1. Learn to say the alphabet (Hebrew *aleph-bet*). My daughters agreed
 to help me teach you the *aleph-bet* song, and to talk about their early
@@ -106,7 +106,7 @@ the pillars of my quarantine. I would be in bad shape without them.
 [BBHe]: http://cdn.bakerpublishinggroup.com/processed/book-resources/files/Excerpt_9780801048869.pdf
 [LBHG]: https://amzn.to/3byumDo
 [LBHW]: https://amzn.to/3bwgSI9
-[2201]: courses/hb-2201/
+[2201]: https://danieldriver.com/courses/hb-2201/
 [KIS]: https://alisonyang.weebly.com/blog/online-teaching-do-this-not-that
 [lessons]: https://www.theguardian.com/education/2020/apr/24/italy-home-schooling-coronavirus-lockdown-what-weve-learned
 [time]: https://www.firstthings.com/web-exclusives/2020/03/the-time-of-the-virus
