@@ -43,8 +43,8 @@ the experience.
 We tend to go with what we know, which is why I started my girls with
 classical Hebrew. As the pandemic dilates, it might be time to stretch
 to more of what we do not know. For my family that means more math and
-science. For you that might mean Hebrew. I hope it does. Friends often
-tell me they'd like to learn to read it someday. We all know that
+science. For you that might mean some Hebrew. I hope it does. Friends
+often tell me they'd like to learn to read it someday. We all know that
 someday comes rarely, if ever, but Covidtide, this present [Time of the
 Virus][time], might be just the right time for you to start such a
 project. I'm here to tell you that you can start learning Hebrew from
@@ -85,15 +85,15 @@ If you have not yet started to think of your home as a classroom, I
 cannot recommend it enough. The pillars of my quarantine have been daily
 walks, daily prayer (especially [compline][]), and daily Hebrew lessons.
 I would be in worse shape without any one of them, but I think the
-discipline imposed by a school routine has made it singularly important.
+discipline imposed by a school routine has made it uniquely important.
 
-If you have made that renovation already, perhaps because it was forced
-upon you as a parent, it might be a good time to push into new
+If you have made that home renovation already, perhaps because it was
+forced upon you as a parent, it might be a good time to push into new
 challenges, beyond what seems especially convenient or ready to hand.
 This family may need to attend to the periodic table soon, for example.
 If you choose to take up biblical Hebrew in the way I outline here,
-please let me know. If circumstances suit, you may even be able to join
-my summer course from home. You'd certainly be welcome. To me the
+please let me know. If the stars align you may even be able to join my
+summer course from home. You'd certainly be welcome. To me the
 camaraderie of a joyful learning community has hardly ever felt so
 vital.
 
