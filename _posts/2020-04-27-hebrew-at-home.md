@@ -63,9 +63,9 @@ review the song with us.[^fn2]
 
 2. Learn to write the *aleph-bet* and distinguish between the Hebrew
 letters. Any number of introductory grammars will show you how to form
-the letters. I like Cook & Holmstedt because their word searches are a
-fun way to quickly learn *bet* from *kaf*, *dalet* from *resh*, *vav*
-from *final nun*, and so on. You can download and print [three essential
+the letters. Cook & Holmstedt's word searches are a fun way to train
+your eye to separate *bet* from *kaf*, *dalet* from *resh*, *vav* from
+*final nun*, and so on. You can download and print [three essential
 lessons from the publisher's excerpt][BBHe].
 
 3. Learn the vowels and schwas, also called the [niqqud][]. Easier said
