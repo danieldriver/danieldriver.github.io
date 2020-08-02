@@ -18,19 +18,17 @@ permalink: /about/
 {:/}
 
 Born in Portland, Oregon in 1979, Daniel Driver studied English
-Literature at university (BA from Wheaton College, 2002), taught
-humanities to high school students in Kansas for two years, and then
-moved to St Andrews, Scotland, to pursue graduate work in theology.
-There he completed a PhD in Divinity, with a focus on Old Testament, in
-mid-2008. From 2008 to 2016 he taught Hebrew and Old Testament to
-undergraduates at Tyndale University College, in Toronto. While there
-was confirmed in the Anglican Church of Canada at the Cathedral Church
-of St. James. One of the things that excites him about joining the
-faculty of the [Atlantic School of Theology](http://www.astheology.ns.ca/faculty/full-time/daniel-driver.html)
-in Halifax, from August 2016, is the way that his service to church and
-academy has been formally linked to the <abbr title="Anglican Church of
-Canada">ACC</abbr> in a broadly and self-consciously ecumenical
-environment.
+Literature at university in Chicago, taught humanities to high school
+students in Kansas for two years, and then moved to St Andrews,
+Scotland, to pursue graduate work in theology. There he completed a PhD
+in Divinity, with a focus on Old Testament. From 2008 to 2016 he taught
+Hebrew and Old Testament to undergraduates at Tyndale University College
+in Toronto, Ontario. In 2016 he joined the faculty of
+[Atlantic School of Theology](http://www.astheology.ns.ca/faculty/full-time/daniel-driver.html)
+in Halifax, Nova Scotia. One of the things he enjoys about working with
+colleagues and graduate students at AST is the way that his service to
+church and academy is formally linked to the Anglican Church of Canada
+in a broadly and self-consciously ecumenical environment.
 
 ---
 
@@ -40,16 +38,18 @@ environment.
 - MPhil coursework, St Mary's College, University of St Andrews (incorporated in PhD)
 - BA in English Literature, Wheaton College, Illinois (2002)
 
-## Experience
+## Academic Experience
 
+- Acting Dean, Atlantic School of Theology (2020)
+- Chief Negotiator for ASTFA, 4th Collective Agreement with AST (2018--2019)
+- Treasurer, Atlantic School of Theology Faculty Association (2017--present)
 - Associate Professor, Atlantic School of Theology (2016--present)
-- Assistant & Associate Professor, Tyndale University College (2008--2016)
+- Associate Professor, Tyndale University College (2015--2016)
 - Secretary-Treasurer, Tyndale UC Faculty Association (2014--2016)
+- Assistant Professor, Tyndale University College (2008--2015)
 - Associate Dean, Tyndale University College (2011--2013)
 - Conference Administrator, University of St Andrews (2005--2006)
-- Rhetoric School Teacher, Cair Paravel-Latin School, Kansas (2002--2004)
-- Packing Barn Manager, Norris Blueberry Farms, Oregon (1998-2001)
-
+- Rhetoric School Teacher, Cair Paravel Latin School (2002--2004)
 
 For more information download a recent [curriculum vitae](/assets/pdf/Driver_cv.pdf).
 
@@ -59,14 +59,12 @@ For more information download a recent [curriculum vitae](/assets/pdf/Driver_cv.
 
 You are welcome to contact me through my [work at
 AST](http://www.astheology.ns.ca/faculty/full-time/daniel-driver.html).
-Alternatively, my personal email is hosted on a secure server in
-Switzerland. Reach me at:
+Alternatively, my personal email address is:
 
 - \<six letters of my first name>@lente.net
 
-Any message you send me from your own
-[ProtonMail](https://protonmail.com/) account will automatically have
-end-to-end encryption. If you use another PGP compatible service, you
-can use my [PGP public key](/assets/pgp/publickey-drd.txt).
+Any message you send me at this address from a [ProtonMail](https://protonmail.com/)
+account will automatically have end-to-end encryption. If you use
+another PGP compatible service, you can use my [PGP public key](/assets/pgp/publickey-drd.txt).
 
 </div>
