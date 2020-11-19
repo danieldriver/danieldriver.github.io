@@ -36,7 +36,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (Winter 2019): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
+        <p><em>Beginning Biblical Hebrew II</em> (Winter 2021): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
       </div>
     </div>
 
@@ -54,7 +54,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3112/">HB 3112</a></h4>
-        <p><em>Psalms in Interpretation</em> (Winter 2017): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
+        <p><em>Psalms in Interpretation</em> (Winter 2021): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
       </div>
     </div>
 
