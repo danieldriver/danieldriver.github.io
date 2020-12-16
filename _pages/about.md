@@ -66,4 +66,11 @@ Any message you send me at this address from a [ProtonMail](https://protonmail.c
 account will automatically have end-to-end encryption. If you use
 another PGP compatible service, you can use my [PGP public key](/assets/pgp/publickey-drd.txt).
 
+Office hours, including virtual office hours, can be [scheduled here](https://calendly.com/danieldriver).
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/danieldriver" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
 </div>
