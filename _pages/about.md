@@ -23,12 +23,11 @@ high school students in Kansas for two years, and then moved to St
 Andrews, Scotland, to pursue graduate work in theology. There he
 completed a PhD in Divinity, with a focus on Old Testament. From 2008 to
 2016 he taught Hebrew and Old Testament to undergraduates in Toronto,
-Ontario. In 2016 he joined the faculty of [Atlantic School of
-Theology](http://www.astheology.ns.ca/faculty/full-time/daniel-driver.
-html) in Halifax, Nova Scotia. One of the things he enjoys about working
-with colleagues and graduate students at AST is the way that his service
-to church and academy is formally linked to the Anglican Church of
-Canada in a broadly and self-consciously ecumenical environment.
+Ontario. In 2016 he joined the faculty of [Atlantic School of Theology](http://www.astheology.ns.ca/faculty/full-time/daniel-driver.html)
+in Halifax, Nova Scotia. One of the things he enjoys about working with
+colleagues and graduate students at AST is the way that his service to
+church and academy is formally linked to the Anglican Church of Canada
+in a broadly and self-consciously ecumenical environment.
 
 ---
 
