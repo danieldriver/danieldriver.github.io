@@ -9,7 +9,6 @@ layout: default
   My [academic publications](work/) have focused on canonical approaches to scripture, especially in the tradition of [Brevard Childs](bsc/). At present I am completing an edition of Childs's collected essays, scheduled to appear with Mohr Siebeck ([FAT I](https://www.mohrsiebeck.com/en/monograph-series/forschungen-zum-alten-testament-fat)) in 2021.
   Other major aspects of my current work converge on Genesis, the Psalms, and creation.
 
-  Very occasionally I publish [short notes](notes/) here, on what once might have passed for a blog. I am sometimes found on [Twitter](https://twitter.com/danieldriver), too, though my oldest daughter mocks me for it.
+  Very occasionally I publish [short notes](notes/) here, on what once might have passed for a blog. In 2021 I finally took Jaron Lanier's advice and deleted my social media accounts. I still exist.
 
-<!--   I also maintain [lente.net](http://lente.net), a website named for the oxymoronic motto *festina lente* and dedicated to an ecumenical pursuit of things biblical and theological. -->
 </div>

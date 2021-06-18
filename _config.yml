@@ -10,7 +10,7 @@ permalink: /:year/:title/   # how should we display posts url
 # Meta settings
 email: daniel@lente.net
 author: Daniel R. Driver
-twitter_username: danieldriver
+# twitter_username: danieldriver
 github_username: danieldriver
 github_source: danieldriver.github.io
 
