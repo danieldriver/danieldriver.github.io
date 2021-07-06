@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Associate Professor of Hebrew Bible/Old Testament
+<div class="lead lead-about">Professor of Old Testament
 </div>
 
 {::nomarkdown}
@@ -39,10 +39,11 @@ in a broadly and self-consciously ecumenical environment.
 
 ## Academic Experience
 
+- Full Professor, Atlantic School of Theology (2021--present)
 - Acting Dean, Atlantic School of Theology (2020)
 - Chief Negotiator for ASTFA, 4th Collective Agreement with AST (2018--2019)
 - Treasurer, Atlantic School of Theology Faculty Association (2017--present)
-- Associate Professor, Atlantic School of Theology (2016--present)
+- Associate Professor, Atlantic School of Theology (2016--2021)
 - Associate Professor, Tyndale University College (2015--2016)
 - Secretary-Treasurer, Tyndale UC Faculty Association (2014--2016)
 - Assistant Professor, Tyndale University College (2008--2015)

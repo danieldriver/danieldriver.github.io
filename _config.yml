@@ -2,7 +2,7 @@
 
 # Site settings
 title: danieldriver.com
-desc: 'Online home of Daniel R. Driver, Associate Professor of Hebrew Bible / Old Testament at the Atlantic School of Theology.'
+desc: 'Online home of Daniel R. Driver, Professor of Old Testament at the Atlantic School of Theology.'
 url: https://danieldriver.com
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url

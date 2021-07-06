@@ -6,7 +6,7 @@ desc: Student resources selected by Dr. Driver.
 permalink: /resources/
 ---
 
-This page is a work in progress. Check back soon for updates, or pester me if there's something you'd like to see here. – DRD, 13 November 2018
+This page is a work in progress. Check back soon for updates, or pester me if there's something you'd like to see here.
 
 ## Program Advising at AST
 
