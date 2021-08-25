@@ -22,7 +22,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2020): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Fall 2021): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
@@ -61,7 +61,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
-        <p><em>The Ten Commandments</em> (Winter 2018): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
+        <p><em>The Ten Commandments</em> (Winter 2022): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
       </div>
     </div>
 
@@ -96,8 +96,15 @@ Law, the Prophets, and the Writings.
 
     <div class="unit one-third">
       <div class="course">
+        <h4 class="course-title"><a href="hb-3117/">HB 3117</a></h4>
+        <p><em>Creation and Canon</em> (Fall 2021): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
+      </div>
+    </div>
+
+    <div class="unit one-third">
+      <div class="course">
         <h4 class="course-title"><a href="hbst-3001/">HB/ST 3001</a></h4>
-        <p><em>Christian Doctrine and the Old Testament</em> (Summer 2017): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
+        <p><em>Christian Doctrine and the Old Testament</em> (Winter 2022): An exploration of the relationship of scripture and theology through the study of recent approaches to the OT as a source for Christian Doctrine.</p>
       </div>
     </div>
 
