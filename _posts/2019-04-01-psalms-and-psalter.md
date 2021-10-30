@@ -97,7 +97,7 @@ ignore either view is to refuse binocular vision.
 
 [^fn1]: Frank-Lothar Hossfeld and Erich Zenger, *Psalms 2: A Commentary on Psalms 51–100 and Psalms 3: A Commentary on Psalms 101–150*, Hermeneia (Minneapolis: Fortress, 2005, 2011).
 
-[^fn2]: Published November 17, 2015, [https://youtu.be/j9ph NEaPrv8](https://youtu.be/j9ph NEaPrv8); Nancy L. deClaissé-Walford, ed., *The Shape and Shaping of the Book of Psalms: The Current State of Scholarship*, AIL 20 (Atlanta: SBL, 2014).
+[^fn2]: Published November 18, 2015, [https://youtu.be/j9phNEaPrv8](https://youtu.be/j9phNEaPrv8); Nancy L. deClaissé-Walford, ed., *The Shape and Shaping of the Book of Psalms: The Current State of Scholarship*, AIL 20 (Atlanta: SBL, 2014).
 
 [^fn3]: Jason Byassee, *Praise Seeking Understanding: Reading the Psalms with Augustine* (Grand Rapids: Eerdmans, 2007); Susan Gillingham, *Psalms Through the Centuries, Volume One* (Oxford: Wiley-Blackwell, 2008) and *A Journey of Two Psalms: The Reception of Psalms 1 and 2 in Jewish and Christian Tradition* (Oxford: Oxford University Press, 2013).
 
