@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Greetings from Halifax, Nova Scotia. My name is [Daniel Driver](about/), and I am a Professor of Old Testament at Atlantic School of Theology, where I have taught since 2016. I also serve (since 2022) as Director of the Master of Arts degree program at AST. Conjointly with [Saint Mary’s University](https://www.smu.ca/academics/m-a-theology.html), AST offers an [M.A. in Theology and Religious Studies](https://www.astheology.ns.ca/future/graduate/ma-theology-religious-studies.html). Please [contact me](about/#contact) to inquire about the program.
+  Greetings from Halifax, Nova Scotia. My name is [Daniel Driver](about/), and I am a Professor of Old Testament at Atlantic School of Theology, where I have taught since 2016. I also serve (since 2022) as Director of the Master of Arts degree program at AST. Conjointly with [Saint Mary’s University](https://www.smu.ca/academics/m-a-theology.html), AST offers an [MA in Theology and Religious Studies](https://www.astheology.ns.ca/future/graduate/ma-theology-religious-studies.html). Want to write a Master's thesis at AST? Please [contact me](about/#contact) to inquire.
 
   As the only full-time professor in my field at AST, I teach an [array of courses](courses/) across the Law, Prophets, and Writings.
   My [academic publications](work/) have focused on canonical approaches to scripture, especially in the tradition of [Brevard Childs](bsc/). At present I am completing an edition of Childs's collected essays, scheduled to appear with Mohr Siebeck ([FAT I](https://www.mohrsiebeck.com/en/monograph-series/forschungen-zum-alten-testament-fat)) in 2021.
