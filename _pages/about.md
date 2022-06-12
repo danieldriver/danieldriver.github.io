@@ -39,10 +39,10 @@ in a broadly and self-consciously ecumenical environment.
 
 ## Academic Experience
 
-- Director, Master of Arts program, Atlantic School of Theology (2022--present)
+- Director, Master of Arts (Theology and Religious Studies) program, Atlantic School of Theology (2022--present)
 - Full Professor, Atlantic School of Theology (2021--present)
 - Acting Dean, Atlantic School of Theology (2020)
-- Chief Negotiator, [AST Faculty Association][ASTFA], 4th and 5th Collective Agreements (2018---)
+- Chief Negotiator, [AST Faculty Association][ASTFA], 4th and 5th Collective Agreements (2018--present)
 - Treasurer, [AST Faculty Association][ASTFA] (2017--present)
 - Associate Professor, Atlantic School of Theology (2016--2021)
 - Associate Professor, Tyndale University College (2015--2016)
