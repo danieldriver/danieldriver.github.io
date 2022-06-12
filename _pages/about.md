@@ -39,10 +39,11 @@ in a broadly and self-consciously ecumenical environment.
 
 ## Academic Experience
 
+- Director, Master of Arts program, Atlantic School of Theology (2022--present)
 - Full Professor, Atlantic School of Theology (2021--present)
 - Acting Dean, Atlantic School of Theology (2020)
-- Chief Negotiator for ASTFA, 4th Collective Agreement with AST (2018--2019)
-- Treasurer, Atlantic School of Theology Faculty Association (2017--present)
+- Chief Negotiator for [ASTFA][ASTFA], 4th and 5th Collective Agreements (2018--2022)
+- Treasurer, [Atlantic School of Theology Faculty Association][ASTFA] (2017--present)
 - Associate Professor, Atlantic School of Theology (2016--2021)
 - Associate Professor, Tyndale University College (2015--2016)
 - Secretary-Treasurer, Tyndale UC Faculty Association (2014--2016)
@@ -53,6 +54,7 @@ in a broadly and self-consciously ecumenical environment.
 
 For more information download a recent [curriculum vitae](/assets/pdf/Driver_cv.pdf).
 
+[ASTFA]: https://www.astfa.ca "Atlantic School of Theology Faculty Association"
 ---
 
 ## Contact
