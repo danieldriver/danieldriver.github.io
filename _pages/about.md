@@ -54,7 +54,6 @@ in a broadly and self-consciously ecumenical environment.
 
 For more information download a recent [curriculum vitae](/assets/pdf/Driver_cv.pdf).
 
-[ASTFA]: https://www.astfa.ca "Atlantic School of Theology Faculty Association"
 ---
 
 ## Contact
@@ -72,3 +71,5 @@ another PGP compatible service, you can use my [PGP public key](/assets/pgp/publ
 Office hours, including virtual office hours, can be [scheduled here](https://calendly.com/danieldriver).
 
 </div>
+
+[ASTFA]: https://www.astfa.ca "AST Faculty Association"
