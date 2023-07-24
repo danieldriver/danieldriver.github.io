@@ -22,7 +22,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2022): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Fall 2023): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
@@ -47,7 +47,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3111/">HB 3111</a></h4>
-        <p><em>The Book of Genesis</em> (Winter 2017): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
+        <p><em>The Book of Genesis</em> (Fall 2023): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
       </div>
     </div>
 
@@ -72,7 +72,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3114/">HB 3114</a></h4>
-        <p><em>The Twelve Prophets</em> (Winter 2018): An overview of twelve Hebrew prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of The Book of the Twelve.</p>
+        <p><em>The Twelve Prophets</em> (Winter 2024): An overview of twelve Hebrew prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of The Book of the Twelve.</p>
       </div>
     </div>
 
