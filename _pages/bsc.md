@@ -1,18 +1,38 @@
 ---
 layout: page
 title: Brevard S. Childs
-subtitle: Brevard Childs, Biblical Theologian
-desc: Current and recent courses offered at the Atlantic School of Theology.
+subtitle: Brevard Springs Childs, 1923–2007
+desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
-### Forschungen zum Alten Testament II/46. Mohr Siebeck, 2010. Repr. Baker Academic, 2012.
+- [*Canon as Rule and Guide: Collected Essays* (2023)](#tk)
+- [*Brevard Childs, Biblical Theologian* (2010, 2012)](#tk)
+- [Books by Childs (1960–2008)(#tk)
 
-This work advanced through several stages, reflected in four recensions.
+## Canon as Rule and Guide: Collected Essays (2023)
+
+- Childs, Brevard S. *Canon as Rule and Guide: Collected Essays*. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
+
+The fifty-two essays collected here span half a century of biblical scholarship. Together they provide a view into the history of Old Testament studies from the vantage of a scholar who worked to integrate his command of it with several cognate disciplines, including New Testament, Biblical Theology, and the history of interpretation. Canon is a rule and guide: this is a ubiquitous concern in the work of Brevard Childs. As he argues, scripture has been shaped with frameworks for interpretation, guidelines built into it through a complex editorial process that resulted in a multifaceted canon with two Testaments. Scripture is a canon and rule of faith that in turn shapes the church's confession and life of faith. This approach to scripture entails a holistic view that touches the Bible's composition and reception histories as well as its enduring claim on living communities of faith.
+
+Published in English and German. Survey of contents:
+
+- Editor’s Introduction
+- Part I. Early Studies (1958–1967)
+- Part II. Canonical Reformulations (1969–1980)
+- Part III. Canon and Biblical Theology (1981–1992)
+- Part IV. Recovering Theological Exegesis (1994–2005)
+
+## Brevard Childs, Biblical Theologian (2010, 2012)
+
+- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*](https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451). Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
+
+This work advanced through several stages.
 
 1. It started as a PhD thesis under a different title, defended in October 2008. The final submission is superseded but available from the University of St Andrews [research repository](http://hdl.handle.net/10023/754).
-2. The [Mohr Siebeck edition](https://www.mohr.de/en/book/brevard-childs-biblical-theologian-9783161503689) took a new title, in part to reflect the new outline that developed in response to concerns raised by examiners and readers.
-3. Baker Academic commissioned a translation of all the German cited in the book, and published it in an expanded [North American edition](http://bakerpublishinggroup.com/books/brevard-childs-biblical-theologian/336300).
+2. The [Mohr Siebeck edition](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689) took a new title, in part to reflect the revisions and new outline that developed in response to questions raised by examiners and editors.
+3. Baker Academic commissioned a translation of all the German cited in the book, and published it in an expanded North American edition.
 4. A recapitulation of one of the work's main findings, drawn from chapter one of the book, appears in [SBL's 2013 *Gedenkschrift*](http://www.sbl-site.org/assets/pdfs/pubs/061125P-front.pdf). You can [download it here](/assets/pdf/publications/Driver_2013.pdf).
 
 ### Excerpts from Reviews
@@ -125,13 +145,8 @@ This work advanced through several stages, reflected in four recensions.
 <!-- Timmer, Daniel C. Source: Themelios, 36 no 1 May 2011, p 66-67. -->
 <!-- Willis, John T. Source: The Catholic Biblical Quarterly, 74 no 1 Jan 2012, p 125-126. -->
 
-<!--
-## Bibliography of Childs's Work
 
-This resource page will eventually be updated with a full bibliography. Check back again later.
- -->
-
-## Books by Childs
+## Books by Childs (1960–2008)
 
 - *Myth and Reality in the Old Testament*. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
 - *Memory and Tradition in Israel*. SBT 37. London: SCM, 1962.
