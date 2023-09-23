@@ -6,15 +6,15 @@ desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
-- [*Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
-- [*Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
-- [Books by Childs (1960–2008)](#books)
+- [BS Childs, *Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
+- [DR Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
+- [List of books by Childs (1960–2008)](#books)
 
 <a name="collected-essays" />
 
 ## Canon as Rule and Guide: Collected Essays (2023)
 
-- Childs, Brevard S. *Canon as Rule and Guide: Collected Essays*. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
+- Childs, Brevard S. [*Canon as Rule and Guide: Collected Essays*](https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451). Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
 
 The fifty-two essays collected here span half a century of biblical scholarship. Together they provide a view into the history of Old Testament studies from the vantage of a scholar who worked to integrate his command of it with several cognate disciplines, including New Testament, Biblical Theology, and the history of interpretation. Canon is a rule and guide: this is a ubiquitous concern in the work of Brevard Childs. As he argues, scripture has been shaped with frameworks for interpretation, guidelines built into it through a complex editorial process that resulted in a multifaceted canon with two Testaments. Scripture is a canon and rule of faith that in turn shapes the church's confession and life of faith. This approach to scripture entails a holistic view that touches the Bible's composition and reception histories as well as its enduring claim on living communities of faith.
 
@@ -30,7 +30,7 @@ Published in English and German. Survey of contents:
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
-- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*](https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451). Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
+- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689). Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
 
 This work advanced through several stages.
 
@@ -152,7 +152,7 @@ This work advanced through several stages.
 
 <a name="books" />
 
-## Books by Childs (1960–2008)
+## List of Books by Childs (1960–2008)
 
 - *Myth and Reality in the Old Testament*. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
 - *Memory and Tradition in Israel*. SBT 37. London: SCM, 1962.
