@@ -29,8 +29,6 @@ The fifty-two essays collected here span half a century of biblical scholarship.
 
 Published in English and German.
 
-<a name="biblical-theologian" />
-
 ### Table of  Contents
 
 <ul>
@@ -175,6 +173,10 @@ Published in English and German.
 - Index of Subjects
  -->
 
+---
+
+<a name="biblical-theologian" />
+
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
 - Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further [expanded with English translations for a North American edition][Baker]. xiv + 354 pages.
@@ -305,6 +307,7 @@ This work advanced through several stages.
 <!-- Timmer, Daniel C. Source: Themelios, 36 no 1 May 2011, p 66-67. -->
 <!-- Willis, John T. Source: The Catholic Biblical Quarterly, 74 no 1 Jan 2012, p 125-126. -->
 
+---
 
 <a name="books" />
 
