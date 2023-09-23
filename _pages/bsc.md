@@ -6,9 +6,11 @@ desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
-- [*Canon as Rule and Guide: Collected Essays* (2023)](#tk)
-- [*Brevard Childs, Biblical Theologian* (2010, 2012)](#tk)
-- [Books by Childs (1960–2008)(#tk)
+- [*Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
+- [*Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
+- [Books by Childs (1960–2008)](#books)
+
+<a name="collected-essays" />
 
 ## Canon as Rule and Guide: Collected Essays (2023)
 
@@ -23,6 +25,8 @@ Published in English and German. Survey of contents:
 - Part II. Canonical Reformulations (1969–1980)
 - Part III. Canon and Biblical Theology (1981–1992)
 - Part IV. Recovering Theological Exegesis (1994–2005)
+
+<a name="biblical-theologian" />
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
@@ -145,6 +149,8 @@ This work advanced through several stages.
 <!-- Timmer, Daniel C. Source: Themelios, 36 no 1 May 2011, p 66-67. -->
 <!-- Willis, John T. Source: The Catholic Biblical Quarterly, 74 no 1 Jan 2012, p 125-126. -->
 
+
+<a name="books" />
 
 ## Books by Childs (1960–2008)
 
