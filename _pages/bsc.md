@@ -168,15 +168,14 @@ Title links are to copies that can be borrowed through Internet Archive. <!-- AM
 
 - [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
 - [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962.
-- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2/3. London: SCM, 1967.
+- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2.3. London: SCM, 1967.
 - [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970.
 - [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974.
 - [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977.
 - [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979.
 - [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984.
 - [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985.
-- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996.
-- [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002.
+- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996. Excerpted repr., without the author's knowledge: [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002.
 - [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001.
 - [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004.
 - [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008.
