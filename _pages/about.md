@@ -6,8 +6,6 @@ desc: About DRD.
 permalink: /about/
 ---
 
-<div class="pretty-links">
-
 <div class="lead lead-about">Professor of Old Testament
 </div>
 
@@ -69,7 +67,5 @@ account will automatically have end-to-end encryption. If you use
 another PGP compatible service, you can use my [PGP public key](/assets/pgp/publickey-drd.txt).
 
 Office hours, including virtual office hours, can be [scheduled here](https://calendly.com/danieldriver).
-
-</div>
 
 [ASTFA]: https://www.astfa.ca "AST Faculty Association"
