@@ -6,6 +6,8 @@ desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
+<div class="pretty-links">
+
 <div class="lead lead-about">Major works by and about the scholar
 </div>
 
@@ -15,6 +17,8 @@ Page contents:
 - [D.R. Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
 - [Chronological list of books by Childs](#books)
 - [Chronological list of books about Childs](#secondary)
+
+</div>
 
 ---
 
