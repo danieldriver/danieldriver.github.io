@@ -6,8 +6,8 @@ desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
-- [BS Childs, *Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
-- [DR Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
+- [B.S. Childs, *Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
+- [D.R. Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
 - [List of Books by Childs (1960–2008)](#books)
 
 <a name="collected-essays" />
