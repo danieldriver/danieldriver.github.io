@@ -6,7 +6,8 @@ desc: Works by and about Brevard S. Childs.
 permalink: /bsc/
 ---
 
-<div class="lead lead-about">Major works by and about the scholar</div>
+<div class="lead lead-about">Major works by and about the scholar
+</div>
 
 Page contents:
 
