@@ -30,6 +30,71 @@ Published in English and German. Survey of contents:
 
 <a name="biblical-theologian" />
 
+### Table of  Contents
+
+- Abbreviations
+- Editor’s Introduction
+- Part I. Early Studies (1958–1967)
+	1. Prophecy and Fulfillment: A Study of Contemporary Hermeneutics
+	2. Jonah: A Study in Old Testament Hermeneutics
+	3. The Enemy from the North and the Chaos Tradition
+	4. A Study of the Formula “Until This Day”
+	5. Interpretation in Faith: The Theological Responsibility of an Old Testament Commentary
+	6. The Birth of Moses
+	7. Deuteronomic Formulae of the Exodus Traditions
+- Part II. Canonical Reformulations (1969–1980)
+	8. Psalm 8 in the Context of the Christian Canon
+	9. A Traditio-historical Study of the Reed Sea Tradition
+	10. Psalm Titles and Midrashic Exegesis
+	11. Midrash and the Old Testament
+	12. The Old Testament as Scripture of the Church
+	13. A Tale of Two Testaments
+	14. The Etiological Tale Reexamined
+	15. Reflections on the Modern Study of the Psalms
+	16. The Sensus Literalis of Scripture: An Ancient and Modern Problem
+	17. The Canonical Shape of the Book of Jonah
+	18. The Canonical Shape of the Prophetic Literature
+	19. The Exegetical Significance of the Canon for the Study of the Old Testament
+	20. On Reading the Elijah Narratives
+- Part III. Canon and Biblical Theology (1981–1992)
+	21. Differenzen in der Exegese: Biblische Theologie in Amerika
+	22. Some Reflections on the Search for a Biblical Theology
+	23. Wellhausen in English
+	24. Anticipatory Titles in Hebrew Narrative
+	25. Gerhard von Rad in American Dress
+	26. Death and Dying in Old Testament Theology
+	27. Die Bedeutung des jüdischen Kanons in der alttestamentlichen Theologie
+	28. Die theologische Bedeutung der Endform eines Textes
+	29. Biblische Theologie und christlicher Kanon
+	30. The Struggle for God’s Righteousness in the Psalter
+	31. Analysis of a Canonical Formula: “It Shall be Recorded for a Future Generation”
+	32. Critical Reflections on James Barr’s Understanding of the Literal and the Allegorical
+	33. Karl Barth, the Preacher’s Exegete
+	34. Die Bedeutung der Hebräischen Bibel für die Biblische Theologie
+- Part IV. Recovering Theological Exegesis (1994–2005)
+	35. Biblical Scholarship in the Seventeenth Century: A Study in Ecumenics
+	36. Old Testament in Germany, 1920–1940: The Search for a New Paradigm
+	37. On Reclaiming the Bible for Christian Theology
+	38. Old Testament Theology
+	39. Retrospective Reading of the Old Testament Prophets
+	40. Interpreting the Bible amid Cultural Change
+	41. Toward Recovering Theological Exegesis
+	42. Does the Old Testament Witness to Jesus Christ?
+	43. Jesus Christ the Lord and the Scriptures of the Church
+	44. The Nature of the Christian Bible: One Book, Two Testaments
+	45. The One Gospel in Four Witnesses
+	46. The Genre of the Biblical Commentary as Problem and Challenge
+	47. The Almost-Forgotten Genesis Commentary of Benno Jacob
+	48. Hermeneutical Reflections on Campegius Vitringa, Eighteenth-Century Interpreter of Isaiah
+	49. Allegory and Typology within Biblical Interpretation
+	50. Critique of Recent Intertextual Canonical Interpretation
+	51. Speech-Act Theory and Biblical Interpretation
+	52. The Canon in Recent Biblical Studies: Reflections on an Era
+- List of First Publications
+- Index of Scriptural Sources
+- Index of Authors
+- Index of Subjects
+
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
 - Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further [expanded with English translations for a North American edition][Baker]. xiv + 354 pages.
