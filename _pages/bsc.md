@@ -8,7 +8,7 @@ permalink: /bsc/
 
 - [BS Childs, *Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
 - [DR Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
-- [List of books by Childs (1960–2008)](#books)
+- [List of Books by Childs (1960–2008)](#books)
 
 <a name="collected-essays" />
 
@@ -31,6 +31,8 @@ Published in English and German. Survey of contents:
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
 - Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689). Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
+
+In pursuit of the oneness of scripture's scope, Brevard Childs ranged across the Christian Bible, writing Introductions to the Old and New Testaments before attempting a landmark Biblical Theology of the same. For him the canon is a christological rule of faith, though perceiving the “family resemblance” in its historic formation and impress in the life of the church as well as, mysteriously, the synagogue, is always a great struggle. Yet Childs’s argument for final form exegesis rose out of his form-critical training: Hermann Gunkel is a crucial antecedent. Childs’s work has been much discussed, and in the wake of James Barr's criticism much misunderstood. Driver gives its total profile for the first time, from its background and controversy to its later development, analyzing all published titles and filling out this record with a number of previously unseen letters and papers.
 
 This work advanced through several stages.
 
