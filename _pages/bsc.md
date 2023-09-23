@@ -32,13 +32,15 @@ Published in English and German. Survey of contents:
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
-- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
+- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further [expanded with English translations for a North American edition][Baker]. xiv + 354 pages.
 
 In pursuit of the oneness of scripture's scope, Brevard Childs ranged across the Christian Bible, writing Introductions to the Old and New Testaments before attempting a landmark Biblical Theology of the same. For him the canon is a christological rule of faith, though perceiving the “family resemblance” in its historic formation and impress in the life of the church as well as, mysteriously, the synagogue, is always a great struggle. Yet Childs’s argument for final form exegesis rose out of his form-critical training: Hermann Gunkel is a crucial antecedent. Childs’s work has been much discussed, and in the wake of James Barr's criticism much misunderstood. Driver gives its total profile for the first time, from its background and controversy to its later development, analyzing all published titles and filling out this record with a number of previously unseen letters and papers.
 
+### Development
+
 This work advanced through several stages.
 
-1. It started as a PhD thesis under a different title, defended in October 2008. The final submission is superseded but available from the University of St Andrews [research repository](http://hdl.handle.net/10023/754).
+1. It started as a PhD thesis with a different title, defended in October 2008. The final submission is superseded but available from the University of St Andrews [research repository](http://hdl.handle.net/10023/754).
 2. The [Mohr Siebeck edition][FAT2] took a new title, in part to reflect the revisions and new outline that developed in response to questions raised by examiners and editors.
 3. [Baker Academic][Baker] commissioned a translation of all the German cited in the book, and published it in an [expanded North American edition][Baker].
 4. A recapitulation of one of the work's main findings, drawn from chapter one of the book, appears in [SBL's 2013 *Gedenkschrift*](http://www.sbl-site.org/assets/pdfs/pubs/061125P-front.pdf). You can [download it here](/assets/pdf/publications/Driver_2013.pdf).
