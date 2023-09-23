@@ -164,21 +164,21 @@ This work advanced through several stages.
 
 ## List of Books by Childs (1960–2008)
 
-Title links are to copies that can be borrowed through Internet Archive. <!-- AMZN links are to copies that may be for sale. -->
+Title links are to copies that can be borrowed through Internet Archive. Trailing links are to copies that may be for sale.
 
-- [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
-- [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962.
-- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2.3. London: SCM, 1967.
-- [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970.
-- [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974.
-- [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977.
-- [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979.
-- [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984.
-- [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985.
-- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996. Excerpted repr., without the author's knowledge: [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002.
-- [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001.
-- [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004.
-- [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008.
+- [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962. ([Buy][Buy60].)
+- [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962. ([Buy][Buy62].)
+- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2.3. London: SCM, 1967. ([Buy][Buy67].)
+- [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970. ([Buy][Buy70].)
+- [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974. ([Buy][Buy74].)
+- [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977. ([Buy][Buy77].)
+- [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979. ([Buy][Buy79].)
+- [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984. ([Buy][Buy84].)
+- [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985. ([Buy][Buy85].)
+- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996. A short excerpt was reprinted without the author's knowledge: [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002. ([Buy][Buy92].)
+- [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001. ([Buy][Buy01].)
+- [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004. ([Buy][Buy04].)
+- [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008. ([Buy][Buy08].)
 
 [BSC60]: https://archive.org/embed/mythrealityinold0000chil_q7f0
 [BSC62]: https://archive.org/details/memorytraditioni0000chil
@@ -194,3 +194,17 @@ Title links are to copies that can be borrowed through Internet Archive. <!-- AM
 [BSC02]: https://archive.org/details/biblicaltheology0000chil_s9a1
 [BSC04]: https://archive.org/details/struggletounders0000chil
 [BSC08]: https://archive.org/details/churchsguideforr0000chil
+
+[Buy60]: https://amzn.to/454D5Ig
+[Buy62]: https://amzn.to/3ZsYiKN
+[Buy67]: https://amzn.to/3sW8r6z
+[Buy70]: https://amzn.to/3PBnbjc
+[Buy74]: https://amzn.to/3tb8YBD
+[Buy77]: https://amzn.to/3Ps0HkA
+[Buy79]: https://amzn.to/3PQpal0
+[Buy84]: https://amzn.to/46408nU
+[Buy85]: https://amzn.to/45ZmfvZ
+[Buy92]: https://amzn.to/48od6P0
+[Buy01]: https://amzn.to/4545dLP
+[Buy04]: https://amzn.to/3t2COsi
+[Buy08]: https://amzn.to/460QeDL
