@@ -16,7 +16,7 @@ Page contents:
 
 ## Canon as Rule and Guide: Collected Essays (2023)
 
-- Childs, Brevard S. [*Canon as Rule and Guide: Collected Essays*](https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451). Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
+- Childs, Brevard S. [*Canon as Rule and Guide: Collected Essays*][FAT1]. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
 
 The fifty-two essays collected here span half a century of biblical scholarship. Together they provide a view into the history of Old Testament studies from the vantage of a scholar who worked to integrate his command of it with several cognate disciplines, including New Testament, Biblical Theology, and the history of interpretation. Canon is a rule and guide: this is a ubiquitous concern in the work of Brevard Childs. As he argues, scripture has been shaped with frameworks for interpretation, guidelines built into it through a complex editorial process that resulted in a multifaceted canon with two Testaments. Scripture is a canon and rule of faith that in turn shapes the church's confession and life of faith. This approach to scripture entails a holistic view that touches the Bible's composition and reception histories as well as its enduring claim on living communities of faith.
 
@@ -32,16 +32,20 @@ Published in English and German. Survey of contents:
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
-- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689). Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
+- Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further expanded with English translations for a North American edition. xiv + 354 pages.
 
 In pursuit of the oneness of scripture's scope, Brevard Childs ranged across the Christian Bible, writing Introductions to the Old and New Testaments before attempting a landmark Biblical Theology of the same. For him the canon is a christological rule of faith, though perceiving the “family resemblance” in its historic formation and impress in the life of the church as well as, mysteriously, the synagogue, is always a great struggle. Yet Childs’s argument for final form exegesis rose out of his form-critical training: Hermann Gunkel is a crucial antecedent. Childs’s work has been much discussed, and in the wake of James Barr's criticism much misunderstood. Driver gives its total profile for the first time, from its background and controversy to its later development, analyzing all published titles and filling out this record with a number of previously unseen letters and papers.
 
 This work advanced through several stages.
 
 1. It started as a PhD thesis under a different title, defended in October 2008. The final submission is superseded but available from the University of St Andrews [research repository](http://hdl.handle.net/10023/754).
-2. The [Mohr Siebeck edition](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689) took a new title, in part to reflect the revisions and new outline that developed in response to questions raised by examiners and editors.
-3. Baker Academic commissioned a translation of all the German cited in the book, and published it in an expanded North American edition.
+2. The [Mohr Siebeck edition][FAT2] took a new title, in part to reflect the revisions and new outline that developed in response to questions raised by examiners and editors.
+3. [Baker Academic][Baker] commissioned a translation of all the German cited in the book, and published it in an [expanded North American edition][Baker].
 4. A recapitulation of one of the work's main findings, drawn from chapter one of the book, appears in [SBL's 2013 *Gedenkschrift*](http://www.sbl-site.org/assets/pdfs/pubs/061125P-front.pdf). You can [download it here](/assets/pdf/publications/Driver_2013.pdf).
+
+[Baker]: https://amzn.to/46ngRlX
+[FAT2]: https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689
+[FAT1]: https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451
 
 ### Excerpts from Reviews
 
@@ -158,17 +162,34 @@ This work advanced through several stages.
 
 ## List of Books by Childs (1960–2008)
 
-- *Myth and Reality in the Old Testament*. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
-- *Memory and Tradition in Israel*. SBT 37. London: SCM, 1962.
-- *Isaiah and the Assyrian Crisis*. SBT 2/3. London: SCM, 1967.
-- *Biblical Theology in Crisis*. Philadelphia: Westminster, 1970.
-- *The Book of Exodus: A Critical, Theological Commentary*. Old Testament Library. Philadelphia: Westminster, 1974.
-- *Old Testament Books for Pastor and Teacher*. Philadelphia: Westminster, 1977.
-- *Introduction to the Old Testament as Scripture*. Philadelphia: Fortress, 1979.
-- *The New Testament as Canon: An Introduction*. Philadelphia: Fortress, 1984.
-- *Old Testament Theology in a Canonical Context*. Philadelphia: Fortress, 1985.
-- *Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996.
-- *Biblical Theology: A Proposal*. Minneapolis: Fortress, 2002.
-- *Isaiah: A Commentary*. Old Testament LibraryLouisville: Westminster John Knox, 2001.
-- *The Struggle to Understand Isaiah as Christian Scripture*. Grand Rapids: Eerdmans, 2004.
-- *The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*. Grand Rapids: Eerdmans, 2008.
+Title links are to copies that can be borrowed through Internet Archive. <!-- AMZN links are to copies that may be for sale. -->
+
+- [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962.
+- [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962.
+- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2/3. London: SCM, 1967.
+- [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970.
+- [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974.
+- [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977.
+- [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979.
+- [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984.
+- [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985.
+- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996.
+- [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002.
+- [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001.
+- [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004.
+- [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008.
+
+[BSC60]: https://archive.org/embed/mythrealityinold0000chil_q7f0
+[BSC62]: https://archive.org/details/memorytraditioni0000chil
+[BSC67]: https://archive.org/details/isaiah-and-the-assyrian-crisis
+[BSC70]: https://archive.org/embed/biblicaltheology0000chil
+[BSC74]: https://archive.org/details/bookofexoduscrit0000chil
+[BSC77]: https://archive.org/details/oldtestamentbook0000chil
+[BSC79]: https://archive.org/details/introductiontool0000chil
+[BSC84]: https://archive.org/details/newtestamentasca0000chil
+[BSC85]: https://archive.org/details/oldtestamenttheo0000chil
+[BSC92]: https://archive.org/details/biblicaltheology0000chil_h7j0
+[BSC01]: https://archive.org/details/isaiah0000chil
+[BSC02]: https://archive.org/details/biblicaltheology0000chil_s9a1
+[BSC04]: https://archive.org/details/struggletounders0000chil
+[BSC08]: https://archive.org/details/churchsguideforr0000chil
