@@ -17,6 +17,7 @@ Page contents:
 ## Canon as Rule and Guide: Collected Essays (2023)
 
 - Childs, Brevard S. [*Canon as Rule and Guide: Collected Essays*][FAT1]. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. xxxvi + 574 pages.
+- [Publisher's Flyer (PDF)](https://www.mohrsiebeck.com/en/book/canon-as-rule-and-guide-9783161593451?createPdf=true)
 
 The fifty-two essays collected here span half a century of biblical scholarship. Together they provide a view into the history of Old Testament studies from the vantage of a scholar who worked to integrate his command of it with several cognate disciplines, including New Testament, Biblical Theology, and the history of interpretation. Canon is a rule and guide: this is a ubiquitous concern in the work of Brevard Childs. As he argues, scripture has been shaped with frameworks for interpretation, guidelines built into it through a complex editorial process that resulted in a multifaceted canon with two Testaments. Scripture is a canon and rule of faith that in turn shapes the church's confession and life of faith. This approach to scripture entails a holistic view that touches the Bible's composition and reception histories as well as its enduring claim on living communities of faith.
 
@@ -32,6 +33,84 @@ Published in English and German. Survey of contents:
 
 ### Table of  Contents
 
+<ul>
+  <li>Abbreviations</li>
+  <li>Editor’s Introduction</li>
+  <li>Part I. Early Studies (1958–1967)
+    <ol>
+      <li>Prophecy and Fulfillment: A Study of Contemporary Hermeneutics</li>
+      <li>Jonah: A Study in Old Testament Hermeneutics</li>
+      <li>The Enemy from the North and the Chaos Tradition</li>
+      <li>A Study of the Formula “Until This Day”</li>
+      <li>Interpretation in Faith: The Theological Responsibility of an Old Testament Commentary</li>
+      <li>The Birth of Moses</li>
+      <li>Deuteronomic Formulae of the Exodus Traditions</li>
+    </ol>
+  </li>
+  <li>Part II. Canonical Reformulations (1969–1980)
+    <ol start="8">
+      <li>Psalm 8 in the Context of the Christian Canon</li>
+      <li>A Traditio-historical Study of the Reed Sea Tradition</li>
+      <li>Psalm Titles and Midrashic Exegesis</li>
+      <li>Midrash and the Old Testament</li>
+      <li>The Old Testament as Scripture of the Church</li>
+      <li>A Tale of Two Testaments</li>
+      <li>The Etiological Tale Reexamined</li>
+      <li>Reflections on the Modern Study of the Psalms</li>
+      <li>The Sensus Literalis of Scripture: An Ancient and Modern Problem</li>
+      <li>The Canonical Shape of the Book of Jonah</li>
+      <li>The Canonical Shape of the Prophetic Literature</li>
+      <li>The Exegetical Significance of the Canon for the Study of the Old Testament</li>
+      <li>On Reading the Elijah Narratives</li>
+    </ol>
+  </li>
+  <li>Part III. Canon and Biblical Theology (1981–1992)
+    <ol start="21">
+      <li>Differenzen in der Exegese: Biblische Theologie in Amerika</li>
+      <li>Some Reflections on the Search for a Biblical Theology</li>
+      <li>Wellhausen in English</li>
+      <li>Anticipatory Titles in Hebrew Narrative</li>
+      <li>Gerhard von Rad in American Dress</li>
+      <li>Death and Dying in Old Testament Theology</li>
+      <li>Die Bedeutung des jüdischen Kanons in der alttestamentlichen Theologie</li>
+      <li>Die theologische Bedeutung der Endform eines Textes</li>
+      <li>Biblische Theologie und christlicher Kanon</li>
+      <li>The Struggle for God’s Righteousness in the Psalter</li>
+      <li>Analysis of a Canonical Formula: “It Shall be Recorded for a Future Generation”</li>
+      <li>Critical Reflections on James Barr’s Understanding of the Literal and the Allegorical</li>
+      <li>Karl Barth, the Preacher’s Exegete</li>
+      <li>Die Bedeutung der Hebräischen Bibel für die Biblische Theologie</li>
+    </ol>
+  </li>
+  <li>Part IV. Recovering Theological Exegesis (1994–2005)
+    <ol start="35">
+      <li>Biblical Scholarship in the Seventeenth Century: A Study in Ecumenics</li>
+      <li>Old Testament in Germany, 1920–1940: The Search for a New Paradigm</li>
+      <li>On Reclaiming the Bible for Christian Theology</li>
+      <li>Old Testament Theology</li>
+      <li>Retrospective Reading of the Old Testament Prophets</li>
+      <li>Interpreting the Bible amid Cultural Change</li>
+      <li>Toward Recovering Theological Exegesis</li>
+      <li>Does the Old Testament Witness to Jesus Christ?</li>
+      <li>Jesus Christ the Lord and the Scriptures of the Church</li>
+      <li>The Nature of the Christian Bible: One Book, Two Testaments</li>
+      <li>The One Gospel in Four Witnesses</li>
+      <li>The Genre of the Biblical Commentary as Problem and Challenge</li>
+      <li>The Almost-Forgotten Genesis Commentary of Benno Jacob</li>
+      <li>Hermeneutical Reflections on Campegius Vitringa, Eighteenth-Century Interpreter of Isaiah</li>
+      <li>Allegory and Typology within Biblical Interpretation</li>
+      <li>Critique of Recent Intertextual Canonical Interpretation</li>
+      <li>Speech-Act Theory and Biblical Interpretation</li>
+      <li>The Canon in Recent Biblical Studies: Reflections on an Era</li>
+    </ol>
+  </li>
+  <li>List of First Publications</li>
+  <li>Index of Scriptural Sources</li>
+  <li>Index of Authors</li>
+  <li>Index of Subjects</li>
+</ul>
+
+<!-- Markdown doesn't resume numbering; use manual HTML (above)
 - Abbreviations
 - Editor’s Introduction
 - Part I. Early Studies (1958–1967)
@@ -94,10 +173,12 @@ Published in English and German. Survey of contents:
 - Index of Scriptural Sources
 - Index of Authors
 - Index of Subjects
+ -->
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
 
 - Driver, Daniel R. [*Brevard Childs, Biblical Theologian: For the Church’s One Bible*][FAT2]. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010. Repr., Grand Rapids: Baker Academic, 2012. A revision of my doctoral thesis, the first edition was then corrected and further [expanded with English translations for a North American edition][Baker]. xiv + 354 pages.
+- [Publisher's Flyer (PDF)](https://www.mohrsiebeck.com/en/book/brevard-childs-biblical-theologian-9783161503689?createPdf=true)
 
 In pursuit of the oneness of scripture's scope, Brevard Childs ranged across the Christian Bible, writing Introductions to the Old and New Testaments before attempting a landmark Biblical Theology of the same. For him the canon is a christological rule of faith, though perceiving the “family resemblance” in its historic formation and impress in the life of the church as well as, mysteriously, the synagogue, is always a great struggle. Yet Childs’s argument for final form exegesis rose out of his form-critical training: Hermann Gunkel is a crucial antecedent. Childs’s work has been much discussed, and in the wake of James Barr's criticism much misunderstood. Driver gives its total profile for the first time, from its background and controversy to its later development, analyzing all published titles and filling out this record with a number of previously unseen letters and papers.
 
