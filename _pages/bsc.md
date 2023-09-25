@@ -9,12 +9,12 @@ permalink: /bsc/
 <div class="lead lead-about">Major works by and about the scholar
 </div>
 
-Page contents:
+Page contents and navigation links:
 
 - [B.S. Childs, *Canon as Rule and Guide: Collected Essays* (2023)](#collected-essays)
-- [D.R. Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
 - [Chronological list of books by Childs](#books)
 - [Chronological list of books about Childs](#secondary)
+- [D.R. Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
 
 ---
 
@@ -175,6 +175,98 @@ Published in English and German.
 
 ---
 
+<a name="books" />
+
+## Chronological list of books by Childs
+
+Title links are to copies that can be borrowed through Internet Archive. Trailing links are to copies that may be for sale.
+
+- [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962. ([Buy][Buy60].)
+- [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962. ([Buy][Buy62].)
+- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2.3. London: SCM, 1967. ([Buy][Buy67].)
+- [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970. ([Buy][Buy70].)
+- [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974. ([Buy][Buy74].)
+- [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977. ([Buy][Buy77].)
+- [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979. ([Buy][Buy79].)
+- [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984. ([Buy][Buy84].)
+- [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985. ([Buy][Buy85].)
+- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996. A short excerpt was reprinted without the author's knowledge: [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002. ([Buy][Buy92].)
+- [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001. ([Buy][Buy01].)
+- [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004. ([Buy][Buy04].)
+- [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008. ([Buy][Buy08].)
+- *Canon as Rule and Guide: Collected Essays*. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. ([Buy][FAT1].)
+
+[BSC60]: https://archive.org/embed/mythrealityinold0000chil_q7f0
+[BSC62]: https://archive.org/details/memorytraditioni0000chil
+[BSC67]: https://archive.org/details/isaiah-and-the-assyrian-crisis
+[BSC70]: https://archive.org/embed/biblicaltheology0000chil
+[BSC74]: https://archive.org/details/bookofexoduscrit0000chil
+[BSC77]: https://archive.org/details/oldtestamentbook0000chil
+[BSC79]: https://archive.org/details/introductiontool0000chil
+[BSC84]: https://archive.org/details/newtestamentasca0000chil
+[BSC85]: https://archive.org/details/oldtestamenttheo0000chil
+[BSC92]: https://archive.org/details/biblicaltheology0000chil_h7j0
+[BSC01]: https://archive.org/details/isaiah0000chil
+[BSC02]: https://archive.org/details/biblicaltheology0000chil_s9a1
+[BSC04]: https://archive.org/details/struggletounders0000chil
+[BSC08]: https://archive.org/details/churchsguideforr0000chil
+
+[Buy60]: https://amzn.to/454D5Ig
+[Buy62]: https://amzn.to/3ZsYiKN
+[Buy67]: https://amzn.to/3sW8r6z
+[Buy70]: https://amzn.to/3PBnbjc
+[Buy74]: https://amzn.to/3tb8YBD
+[Buy77]: https://amzn.to/3Ps0HkA
+[Buy79]: https://amzn.to/3PQpal0
+[Buy84]: https://amzn.to/46408nU
+[Buy85]: https://amzn.to/45ZmfvZ
+[Buy92]: https://amzn.to/48od6P0
+[Buy01]: https://amzn.to/4545dLP
+[Buy04]: https://amzn.to/3t2COsi
+[Buy08]: https://amzn.to/460QeDL
+
+---
+
+<a name="secondary" />
+
+## Chronological list of books about Childs
+
+The list includes some earlier titles that played a role in shaping
+Childs's reception by laying a foundation for the idea that the
+canonical approach was methodologically incoherent and thus in need of
+critical reconstruction. ([My own study]((#biblical-theologian))
+contests this idea and approach to Childs.) The list also includes the
+two *Festschriften* and the memorial volume for Childs (titles linked).
+However, it includes only a selection of the studies that interact with
+Childs in connection with biblical texts and themes.
+
+- Barr, James. *Holy Scripture: Canon, Authority, Criticism*. Oxford: Oxford University Press, 1983.
+- Barton, John. *Reading the Old Testament: Method in Biblical Study*. London: Darton, Longman & Todd, 1984.
+- Oeming, Manfred. *Gesamtbiblische Theologien der Gegenwart: Das Verhältnis von AT und NT in der hermeneutischen Diskussion seit Gerhard von Rad*. 2nd ed. Stuttgart: Kohlhammer, 1987.
+- Tucker, Gene M., David L. Petersen, and Robert R. Wilson, eds. [*Canon, Theology, and Old Testament Interpretation: Essays in Honor of Brevard S. Childs*][FS88]. Philadelphia: Fortress, 1988.
+- Brett, Mark G. *Biblical Criticism in Crisis? The Impact of the Canonical Approach on Old Testament Studies*. Cambridge: Cambridge University Press, 1991.
+- Scalise, Charles. *Hermeneutics as Theological Prolegomena: A Canonical Approach*. Studies in American Biblical Hermeneutics 8. Macon, GA: Mercer University Press, 1994.
+- Noble, Paul R. *The Canonical Approach: A Critical Reconstruction of the Hermeneutics of Brevard S. Childs*. Biblical Interpretation Series 16. Leiden: Brill, 1995.
+- Steins, Georg. *Die “Bindung Isaaks” im Kanon (Gen 22): Grundlagen und Programm einer Kanonisch-Intertextuellen Lektüre*. Herders Biblische Studien 20. Freiburg: Herder, 1999.
+- Seitz, Christopher R., and Kathryn Greene-McCreight, eds. [*Theological Exegesis: Essays in Honor of Brevard S. Childs*][FS99]. Grand Rapids: Eerdmans, 1999.
+- Harrisville, Roy A., and Walter Sundberg. *The Bible in Modern Culture: Baruch Spinoza to Brevard Childs*. 2nd ed. Grand Rapids: Eerdmans, 2002.
+- Lyons, William John. *Canon and Exegesis: Canonical Praxis and the Sodom Narrative*. Journal for the Study of the Old Testament Supplement Series 352. Sheffield: Sheffield Academic, 2002.
+- O'Neal, G. Michael. *Interpreting Habakkuk as Scripture: An Application of the Canonical Approach of Brevard S. Childs*. Studies in Biblical Literature 6. New York: Peter Lang, 2007.
+- Driver, Daniel R. *Brevard Childs, Biblical Theologian: For the Church’s One Bible*. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010.
+- Xun, Chen. *Theological Exegesis in the Canonical Context: Brevard Springs Childs’ Methodology of Biblical Theology*. Studies in Biblical Literature 137. New York: Peter Lang, 2010.
+- Seitz, Christopher R., and Kent Richards, eds. [*The Bible as Christian Scripture: The Work of Brevard S. Childs*][GS13]. Atlanta: SBL, 2013.
+- Poulsen, Frederik. *God, His Servant, and the Nations in Isaiah 42:1–9: Biblical Theological Reflections after Brevard S. Childs and Hans Hübner*. Forschungen zum Alten Testament 2.73. Tübingen: Mohr Siebeck, 2014.
+- Shepherd, Charles E. *Theological Interpretation and Isaiah 53: A Critical Comparison of Bernhard Duhm, Brevard Childs, and Alec Motyer*. Library of Hebrew Bible/Old Testament Studies 598. London: Bloomsbury, 2014.
+- Sumpter, Philip. *The Substance of Psalm 24: An Attempt to Read Scripture after Brevard S. Childs*. Library of Hebrew Bible/Old Testament Studies 600. London: Bloomsbury, 2015.
+- Seitz, Christopher R. *Convergences: Canon and Catholicity*. Waco, TX: Baylor University Press, 2020.
+- Brown, Robert G. *Childs’ Canonical Approach: A Critical Assessment*. Studies in Biblical Literature 182. New York: Peter Lang, 2023.
+
+[FS88]: https://archive.org/details/canontheologyold0000unse
+[FS99]: https://books.google.ca/books/about/Theological_Exegesis.html?id=_bLYAAAAMAAJ
+[GS13]: https://doi.org/10.2307/j.ctt5hjh0p
+
+---
+
 <a name="biblical-theologian" />
 
 ## Brevard Childs, Biblical Theologian (2010, 2012)
@@ -306,94 +398,3 @@ This work advanced through several stages.
 <!-- Talstra, Eep. Source: Journal of Reformed Theology, 7 no 1 2013, p 109-110. -->
 <!-- Timmer, Daniel C. Source: Themelios, 36 no 1 May 2011, p 66-67. -->
 <!-- Willis, John T. Source: The Catholic Biblical Quarterly, 74 no 1 Jan 2012, p 125-126. -->
-
----
-
-<a name="books" />
-
-## Chronological list of books by Childs
-
-Title links are to copies that can be borrowed through Internet Archive. Trailing links are to copies that may be for sale.
-
-- [*Myth and Reality in the Old Testament*][BSC60]. SBT 27. London: SCM, 1960. 2nd ed. London: SCM, 1962. ([Buy][Buy60].)
-- [*Memory and Tradition in Israel*][BSC62]. SBT 37. London: SCM, 1962. ([Buy][Buy62].)
-- [*Isaiah and the Assyrian Crisis*][BSC67]. SBT 2.3. London: SCM, 1967. ([Buy][Buy67].)
-- [*Biblical Theology in Crisis*][BSC70]. Philadelphia: Westminster, 1970. ([Buy][Buy70].)
-- [*The Book of Exodus: A Critical, Theological Commentary*][BSC74]. Old Testament Library. Philadelphia: Westminster, 1974. ([Buy][Buy74].)
-- [*Old Testament Books for Pastor and Teacher*][BSC77]. Philadelphia: Westminster, 1977. ([Buy][Buy77].)
-- [*Introduction to the Old Testament as Scripture*][BSC79]. Philadelphia: Fortress, 1979. ([Buy][Buy79].)
-- [*The New Testament as Canon: An Introduction*][BSC84]. Philadelphia: Fortress, 1984. ([Buy][Buy84].)
-- [*Old Testament Theology in a Canonical Context*][BSC85]. Philadelphia: Fortress, 1985. ([Buy][Buy85].)
-- [*Biblical Theology of the Old and New Testaments: Theological Reflection on the Christian Bible*][BSC92]. Minneapolis: Fortress, 1992. Translated into German by Manfred and Christiane Oeming, with a preface by Christoph Dohmen, as *Die Theologie der einen Bibel*. 2 vols. Freiburg: Herder, 1994&ndash;1996. A short excerpt was reprinted without the author's knowledge: [*Biblical Theology: A Proposal*][BSC02]. Minneapolis: Fortress, 2002. ([Buy][Buy92].)
-- [*Isaiah: A Commentary*][BSC01]. Old Testament LibraryLouisville: Westminster John Knox, 2001. ([Buy][Buy01].)
-- [*The Struggle to Understand Isaiah as Christian Scripture*][BSC04]. Grand Rapids: Eerdmans, 2004. ([Buy][Buy04].)
-- [*The Church's Guide for Reading Paul: The Canonical Shaping of the Pauline Corpus*][BSC08]. Grand Rapids: Eerdmans, 2008. ([Buy][Buy08].)
-- *Canon as Rule and Guide: Collected Essays*. Edited by Daniel R. Driver. Forschungen zum Alten Testament 1.174. Tübingen: Mohr Siebeck, 2023. ([Buy][FAT1].)
-
-[BSC60]: https://archive.org/embed/mythrealityinold0000chil_q7f0
-[BSC62]: https://archive.org/details/memorytraditioni0000chil
-[BSC67]: https://archive.org/details/isaiah-and-the-assyrian-crisis
-[BSC70]: https://archive.org/embed/biblicaltheology0000chil
-[BSC74]: https://archive.org/details/bookofexoduscrit0000chil
-[BSC77]: https://archive.org/details/oldtestamentbook0000chil
-[BSC79]: https://archive.org/details/introductiontool0000chil
-[BSC84]: https://archive.org/details/newtestamentasca0000chil
-[BSC85]: https://archive.org/details/oldtestamenttheo0000chil
-[BSC92]: https://archive.org/details/biblicaltheology0000chil_h7j0
-[BSC01]: https://archive.org/details/isaiah0000chil
-[BSC02]: https://archive.org/details/biblicaltheology0000chil_s9a1
-[BSC04]: https://archive.org/details/struggletounders0000chil
-[BSC08]: https://archive.org/details/churchsguideforr0000chil
-
-[Buy60]: https://amzn.to/454D5Ig
-[Buy62]: https://amzn.to/3ZsYiKN
-[Buy67]: https://amzn.to/3sW8r6z
-[Buy70]: https://amzn.to/3PBnbjc
-[Buy74]: https://amzn.to/3tb8YBD
-[Buy77]: https://amzn.to/3Ps0HkA
-[Buy79]: https://amzn.to/3PQpal0
-[Buy84]: https://amzn.to/46408nU
-[Buy85]: https://amzn.to/45ZmfvZ
-[Buy92]: https://amzn.to/48od6P0
-[Buy01]: https://amzn.to/4545dLP
-[Buy04]: https://amzn.to/3t2COsi
-[Buy08]: https://amzn.to/460QeDL
-
-
-<a name="secondary" />
-
-## Chronological list of books about Childs
-
-The list includes some earlier titles that played a role in shaping
-Childs's reception by laying a foundation for the idea that the
-canonical approach was methodologically incoherent and thus in need of
-critical reconstruction. (My own study of Childs's work contests this
-idea.) The list also includes the two *Festschriften* and the memorial
-volume for Childs (titles linked). However, it includes only a selection
-of the many studies that interact with Childs in connection with
-biblical texts and themes.
-
-- Barr, James. *Holy Scripture: Canon, Authority, Criticism*. Oxford: Oxford University Press, 1983.
-- Barton, John. *Reading the Old Testament: Method in Biblical Study*. London: Darton, Longman & Todd, 1984.
-- Oeming, Manfred. *Gesamtbiblische Theologien der Gegenwart: Das Verhältnis von AT und NT in der hermeneutischen Diskussion seit Gerhard von Rad*. 2nd ed. Stuttgart: Kohlhammer, 1987.
-- Tucker, Gene M., David L. Petersen, and Robert R. Wilson, eds. [*Canon, Theology, and Old Testament Interpretation: Essays in Honor of Brevard S. Childs*][FS88]. Philadelphia: Fortress, 1988.
-- Brett, Mark G. *Biblical Criticism in Crisis? The Impact of the Canonical Approach on Old Testament Studies*. Cambridge: Cambridge University Press, 1991.
-- Scalise, Charles. *Hermeneutics as Theological Prolegomena: A Canonical Approach*. Studies in American Biblical Hermeneutics 8. Macon, GA: Mercer University Press, 1994.
-- Noble, Paul R. *The Canonical Approach: A Critical Reconstruction of the Hermeneutics of Brevard S. Childs*. Biblical Interpretation Series 16. Leiden: Brill, 1995.
-- Steins, Georg. *Die “Bindung Isaaks” im Kanon (Gen 22): Grundlagen und Programm einer Kanonisch-Intertextuellen Lektüre*. Herders Biblische Studien 20. Freiburg: Herder, 1999.
-- Seitz, Christopher R., and Kathryn Greene-McCreight, eds. [*Theological Exegesis: Essays in Honor of Brevard S. Childs*][FS99]. Grand Rapids: Eerdmans, 1999.
-- Harrisville, Roy A., and Walter Sundberg. *The Bible in Modern Culture: Baruch Spinoza to Brevard Childs*. 2nd ed. Grand Rapids: Eerdmans, 2002.
-- Lyons, William John. *Canon and Exegesis: Canonical Praxis and the Sodom Narrative*. Journal for the Study of the Old Testament Supplement Series 352. Sheffield: Sheffield Academic, 2002.
-- O'Neal, G. Michael. *Interpreting Habakkuk as Scripture: An Application of the Canonical Approach of Brevard S. Childs*. Studies in Biblical Literature 6. New York: Peter Lang, 2007.
-- Driver, Daniel R. *Brevard Childs, Biblical Theologian: For the Church’s One Bible*. Forschungen zum Alten Testament 2.46. Tübingen: Mohr Siebeck, 2010.
-- Xun, Chen. *Theological Exegesis in the Canonical Context: Brevard Springs Childs’ Methodology of Biblical Theology*. Studies in Biblical Literature 137. New York: Peter Lang, 2010.
-- Seitz, Christopher R., and Kent Richards, eds. [*The Bible as Christian Scripture: The Work of Brevard S. Childs*][GS13]. Atlanta: SBL, 2013.
-- Poulsen, Frederik. *God, His Servant, and the Nations in Isaiah 42:1–9: Biblical Theological Reflections after Brevard S. Childs and Hans Hübner*. Forschungen zum Alten Testament 2.73. Tübingen: Mohr Siebeck, 2014.
-- Shepherd, Charles E. *Theological Interpretation and Isaiah 53: A Critical Comparison of Bernhard Duhm, Brevard Childs, and Alec Motyer*. Library of Hebrew Bible/Old Testament Studies 598. London: Bloomsbury, 2014.
-- Sumpter, Philip. *The Substance of Psalm 24: An Attempt to Read Scripture after Brevard S. Childs*. Library of Hebrew Bible/Old Testament Studies 600. London: Bloomsbury, 2015.
-- Seitz, Christopher R. *Convergences: Canon and Catholicity*. Waco, TX: Baylor University Press, 2020.
-- Brown, Robert G. *Childs’ Canonical Approach: A Critical Assessment*. Studies in Biblical Literature 182. New York: Peter Lang, 2023.
-
-[FS88]: https://archive.org/details/canontheologyold0000unse
-[FS99]: https://books.google.ca/books/about/Theological_Exegesis.html?id=_bLYAAAAMAAJ
-[GS13]: https://doi.org/10.2307/j.ctt5hjh0p
