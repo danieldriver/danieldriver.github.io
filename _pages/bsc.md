@@ -229,16 +229,18 @@ Title links are to copies that can be borrowed through Internet Archive. Trailin
 
 <a name="secondary" />
 
-## Chronological list of books about Childs
+## Chronological list of books about Childs’s scholarship
 
-The list includes some earlier titles that played a role in shaping
-Childs's reception by laying a foundation for the idea that the
-canonical approach was methodologically incoherent and thus in need of
-critical reconstruction. ([My own study]((#biblical-theologian))
-contests this idea and approach to Childs.) The list also includes the
-two *Festschriften* and the memorial volume for Childs (titles linked).
-However, it includes only a selection of the studies that interact with
-Childs in connection with biblical texts and themes.
+The list includes some earlier books that played a role in shaping
+Childs's reception by supporting the idea that the canonical approach
+was methodologically incoherent and thus in need of critical
+reconstruction. ([My own study](#biblical-theologian) contests this idea
+and approach to Childs.) The list also includes the two *Festschriften*
+and the memorial volume for Childs (their titles are linked to online
+versions). However, it includes only a selection of the studies that
+interact with Childs in connection with biblical texts and themes, and
+virtually none of the many titles that use or build on his scholarship
+in other ways.
 
 - Barr, James. *Holy Scripture: Canon, Authority, Criticism*. Oxford: Oxford University Press, 1983.
 - Barton, John. *Reading the Old Testament: Method in Biblical Study*. London: Darton, Longman & Todd, 1984.
