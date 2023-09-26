@@ -283,7 +283,7 @@ In pursuit of the oneness of scripture's scope, Brevard Childs ranged across the
 This work advanced through several stages.
 
 1. It started as a PhD thesis with a different title, defended in October 2008. The final submission is superseded but available from the University of St Andrews [research repository](http://hdl.handle.net/10023/754).
-2. The [Mohr Siebeck edition][FAT2] took a new title, in part to reflect the revisions and new outline that developed in response to questions raised by examiners and editors.
+2. The [Mohr Siebeck edition][FAT2] got a new title, in part to reflect the revisions that were pursued in response to questions from examiners and editors, and to the review of some new material.
 3. [Baker Academic][Baker] commissioned a translation of all the German cited in the book, and published it in an [expanded North American edition][Baker].
 4. A recapitulation of one of the work's main findings, drawn from chapter one of the book, appears in [SBL's 2013 *Gedenkschrift*](http://www.sbl-site.org/assets/pdfs/pubs/061125P-front.pdf). You can [download it here](/assets/pdf/publications/Driver_2013.pdf).
 
