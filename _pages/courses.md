@@ -117,6 +117,7 @@ Law, the Prophets, and the Writings.
 
   </div><!-- grid -->
 
+<!-- 
   <div class="grid no-gutters">
 
     <div class="unit one-third">
@@ -127,6 +128,7 @@ Law, the Prophets, and the Writings.
     </div>
 
   </div><!-- grid -->
+ -->
 
 </div>
 {:/}
