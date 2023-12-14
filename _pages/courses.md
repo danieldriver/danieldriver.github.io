@@ -118,16 +118,12 @@ Law, the Prophets, and the Writings.
   </div><!-- grid -->
 
 <!-- 
-  <div class="grid no-gutters">
-
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3118/">HB 3118</a></h4>
         <p><em>Scripture and the City</em> (Winter 2024): An examination of the meaning of the city in Christian Scripture and its afterlives, from Augustine to Christine de Pizan to Jacques Ellul.</p>
       </div>
     </div>
-
-  </div><!-- grid -->
  -->
 
 </div>
