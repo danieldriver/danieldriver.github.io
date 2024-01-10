@@ -16,6 +16,8 @@ Page contents and navigation links:
 - [Chronological list of books about Childs](#secondary)
 - [D.R. Driver, *Brevard Childs, Biblical Theologian* (2010, 2012)](#biblical-theologian)
 
+Note that there is a [book launch on FAT Tuesday 2024](/2024/bsc-book-launch/).
+
 ---
 
 <a name="collected-essays" />
