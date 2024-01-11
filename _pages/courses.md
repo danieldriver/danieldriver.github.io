@@ -72,7 +72,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3114/">HB 3114</a></h4>
-        <p><em>The Twelve Prophets</em> (Winter 2024): An study of the Twelve Prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of a book of the Twelve.</p>
+        <p><em>The Twelve Prophets</em> (Winter 2024): An study of selections from the Twelve Prophets (sometimes called “minor”) and the canonical associations that have caused some to speak of a book of the Twelve.</p>
       </div>
     </div>
 
