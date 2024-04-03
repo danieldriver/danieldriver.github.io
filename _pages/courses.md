@@ -86,7 +86,7 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3116/">HB 3116</a></h4>
-        <p><em>Ecclesiastes</em> (Winter 2019): A close reading of Ecclesiastes, also known as Qoheleth, in the context of the Writings, and in connection with the book’s extraordinarily rich history of interpretation.</p>
+        <p><em>Ecclesiastes</em> (Summer 2024): A close reading of Ecclesiastes, also known as Qoheleth, in the context of the Writings, and in connection with the book’s extraordinarily rich history of interpretation.</p>
       </div>
     </div>
 
@@ -117,7 +117,7 @@ Law, the Prophets, and the Writings.
 
   </div><!-- grid -->
 
-<!-- 
+<!--
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3118/">HB 3118</a></h4>
