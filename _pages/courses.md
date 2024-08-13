@@ -22,21 +22,21 @@ Law, the Prophets, and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2023): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Fall 2024): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (Summer 2022): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
+        <p><em>Beginning Biblical Hebrew I</em> (Fall 2024): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (Fall 2022): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
+        <p><em>Beginning Biblical Hebrew II</em> (Winter 2025): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
       </div>
     </div>
 
