@@ -8,9 +8,9 @@ permalink: /courses/
 
 I teach a variety of courses at [Atlantic School of Theology](http://www.astheology.ns.ca/).
 In addition to covering the basics for graduate- and undergraduate-level
-survey and language requirements, I try to offer a representative
-rotation of courses from the three parts of Tanakh by covering
-selections from the Law, the Prophets, and the Writings.
+survey and language requirements, I offer a rotation of courses from the
+three parts of Tanakh by covering selections from the Law, the Prophets,
+and the Writings.
 
 ## Courses at AST
 
