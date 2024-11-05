@@ -3,3 +3,4 @@ _site
 !*.pdf
 .jekyll-cache
 .DS_Store
+.DS_Store

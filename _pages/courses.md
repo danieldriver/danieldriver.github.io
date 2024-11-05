@@ -54,7 +54,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3112/">HB 3112</a></h4>
-        <p><em>Psalms in Interpretation</em> (Winter 2021): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
+        <p><em>Psalms in Interpretation</em> (Winter 2026): An overview of current research on the shape and shaping of the Psalter, and a seminar on the reception history of about a dozen particular psalms.</p>
       </div>
     </div>
 
@@ -79,7 +79,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3115">HB 3115</a></h4>
-        <p><em>Exodus and the Life of Moses</em> (Summer 2018): A look at the Moses story in the Book of Exodus, this course also locates the figure of Moses in contemporary Jewish and Christian understanding.</p>
+        <p><em>Exodus and the Life of Moses</em> (Fall 2025): A look at the Moses story in the Book of Exodus, this course also locates the figure of Moses in contemporary Jewish and Christian understanding.</p>
       </div>
     </div>
 
@@ -97,7 +97,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3117/">HB 3117</a></h4>
-        <p><em>Creation and Canon</em> (Fall 2021): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
+        <p><em>Creation and Canon</em> (Winter 2026): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
       </div>
     </div>
 
