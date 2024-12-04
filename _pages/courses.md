@@ -97,7 +97,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3117/">HB 3117</a></h4>
-        <p><em>Creation and Canon</em> (Winter 2026): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
+        <p><em>Creation and Canon</em> (Summer 2025): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
       </div>
     </div>
 
