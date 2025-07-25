@@ -22,7 +22,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2024): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Fall 2025): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
