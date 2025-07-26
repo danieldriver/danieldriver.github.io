@@ -24,7 +24,7 @@ This page is a work in progress. Check back soon for updates, or pester me if th
   studies and related disciplines. Details on correct citation may be found in:
 	* A [book from SBL Press](https://www.sbl-site.org/publications/SBLHandbookofStyle.aspx)
 	  and a [blog at sblhs2.com](https://sblhs2.com).
-	* The free [Student Supplement (PDF)](https://www.sbl-site.org/assets/pdfs/pubs/SBLHSsupp2015-02.pdf),
+	* The free [Student Supplement (PDF)](https://www.sbl-site.org/wp-content/uploads/2025/04/SBLHSsupp2015-02.pdf),
 	  which covers most of what you need to know to format a term paper.
 
 - *The Chicago Manual of Style* is the foundation of SBLHS2, which is designed as a
