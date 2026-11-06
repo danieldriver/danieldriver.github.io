@@ -22,21 +22,21 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="bf-1001/">BF 1001</a></h4>
-        <p><em>Hebrew Bible</em> (Fall 2025): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
+        <p><em>Hebrew Bible</em> (Winter 2027): One of two requirements in the Biblical Foundations series, this course surveys the Hebrew Bible/Old Testament and explores its historic role as Jewish and Christian Scripture.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2201/">HB 2201</a></h4>
-        <p><em>Beginning Biblical Hebrew I</em> (Fall 2024): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
+        <p><em>Beginning Biblical Hebrew I</em> (Winter 2027): An introduction to the basic principles of biblical Hebrew with emphasis on morphology, phonology, and syntax, this course opens the door to classical Hebrew.</p>
       </div>
     </div>
 
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-2202/">HB 2202</a></h4>
-        <p><em>Beginning Biblical Hebrew II</em> (Winter 2025): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
+        <p><em>Beginning Biblical Hebrew II</em> (Fall 2027): A more detailed study of Hebrew grammar and syntax through the reading of selected biblical texts, this course is designed as a continuation of HB 2201.</p>
       </div>
     </div>
 
@@ -47,7 +47,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3111/">HB 3111</a></h4>
-        <p><em>The Book of Genesis</em> (Fall 2023): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
+        <p><em>The Book of Genesis</em> (Winter 2028): A study of the histories of Genesis that seeks to understand the book’s foundational role as scripture from antiquity down through the present day.</p>
       </div>
     </div>
 
@@ -61,7 +61,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3113/">HB 3113</a></h4>
-        <p><em>The Ten Commandments</em> (Winter 2022): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
+        <p><em>The Ten Commandments</em> (Summer 2027): A careful look at the ten words spoken directly by God to Israel at Mount Sinai, along with their significance in biblical and post-biblical tradition.</p>
       </div>
     </div>
 
@@ -97,7 +97,7 @@ and the Writings.
     <div class="unit one-third">
       <div class="course">
         <h4 class="course-title"><a href="hb-3117/">HB 3117</a></h4>
-        <p><em>Creation and Canon</em> (Summer 2025): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
+        <p><em>Creation and Canon</em> (Winter 2028): A study of creation connected to biblical and theological rules, and organized around four themes: creation, counter-creation, de-creation, and re-creation.</p>
       </div>
     </div>
 
